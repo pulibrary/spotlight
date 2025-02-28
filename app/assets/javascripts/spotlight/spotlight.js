@@ -1,8 +1,8 @@
 (function (global, factory) {
-  typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
-  typeof define === 'function' && define.amd ? define(factory) :
-  (global = typeof globalThis !== 'undefined' ? globalThis : global || self, global.Spotlight = factory());
-})(this, (function () { 'use strict';
+  typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory(require('openseadragon')) :
+  typeof define === 'function' && define.amd ? define(['openseadragon'], factory) :
+  (global = typeof globalThis !== 'undefined' ? globalThis : global || self, global.Spotlight = factory(global.OpenSeadragon));
+})(this, (function (OpenSeadragon) { 'use strict';
 
   class BrowseGroupCateogries {
     connect() {

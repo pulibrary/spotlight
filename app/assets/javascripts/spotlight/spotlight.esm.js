@@ -1,3 +1,5 @@
+import OpenSeadragon from 'openseadragon';
+
 class BrowseGroupCateogries {
   connect() {
     var $container, slider;
