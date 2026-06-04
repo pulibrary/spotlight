@@ -124,7 +124,7 @@ Spotlight::Engine.routes.draw do
 
     resources :contacts, only: %i[edit update destroy]
 
-    resources :pages, only: [:update_all] do
+    resources :pages do
       collection do
         patch :update_all
       end
