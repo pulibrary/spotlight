@@ -157,4 +157,185 @@ You only need to update `package.json` and prepare/publish the JavaScript packag
 5. Push the release to rubygems and GitHub: `bundle exec rake release`
 6. Run `npm publish` to push the JavaScript package to https://npmjs.org/package/spotlight-frontend
 
+<<<<<<< HEAD
 See "Updating the JavaScript bundle" above for more details.
+=======
+See [Updating the JavaScript bundle](#updating-the-javascript-bundle) above for more details.
+
+## Developing Spotlight
+
+### Branches
+
+* The `main` branch is for development of the 5.x series.
+* The `4.x` series is on the [release-4.x](https://github.com/projectblacklight/spotlight/tree/release-4.x) branch for backports of features and bug fixes.
+
+### Tooling
+
+* Spotlight is a Rails engine and needs to be used in the context of a Rails application. We use [engine_cart](https://github.com/cbeer/engine_cart) to create an internal test application at `.internal_test_app/`. 
+* Spotlight relies on Solr for its integration tests and to run a development instance. [solr_wrapper](https://github.com/cbeer/solr_wrapper) allows us to provide terse commands for development and testing. For more granular control, you can run Solr in Docker, then execute services and processes individually.
+* Spotlight's `rake spotlight:server` and `rake ci` tasks use engine_cart and Solr automatically, but you can refer to [engine_cart](https://github.com/cbeer/engine_cart) and [solr_wrapper](https://github.com/cbeer/solr_wrapper) documentation to work with these tools outside of those rake tasks.
+
+### Initial setup
+
+1. Install the [requirements above](#requirements). Note: You do not need to install Java if you plan to run Solr in Docker. 
+2. Clone the spotlight repository locally and `cd` into it.
+3. Install the Ruby gems used by spotlight: `bundle install`.
+
+Note: if your system is confused by conflicting gem versions, you may need to add "bundle exec" to the beginning of each command below, e.g. `bundle exec rake engine_cart:generate`. This ensures that the command is run in the context of bundler's gem version management.
+
+### Run a development server
+
+After following one of the instructions below, visit http://localhost:3000. A Solr instance will be running on port 8983. When using importmap (the default configuration), JavaScript changes in development should not require [bundling](#updating-the-javascript-bundle) or a server restart.
+
+#### With solr_wrapper
+
+The following rake task will build a Spotlight-based application, start Solr with solr_wrapper, and run the built-in rails server. In the process, you will be prompted to create an admin user and password.
+
+```sh
+rake spotlight:server
+```
+
+Alternatively, you can use [individual commands](#individual-commands) to start Solr separately and set everything else up.
+
+```sh
+solr_wrapper # Run in separate tab
+rake engine_cart:generate
+rake spotlight:fixtures
+cd .internal_test_app
+bin/rails spotlight:initialize
+bin/dev
+```
+
+#### With Docker
+
+The following will run Solr in Docker and then use individual commands to set up a running development server.
+
+```sh
+docker compose up -d
+rake engine_cart:generate
+rake spotlight:fixtures
+cd .internal_test_app
+rake spotlight:seed_admin_user
+bin/dev
+```
+
+### Run tests
+
+#### With solr_wrapper
+
+The following rake task will build a Spotlight-based application, start Solr, run the tests, and then shut down Solr when the tests are finished. Solr should not be running already when you run this.
+```sh
+rake
+```
+
+#### With Docker (or solr_wrapper, if Solr is started separately)
+
+If you're using Solr on Docker, run `docker compose up -d` to start Solr if you haven't already. Once you have Solr running (either on Docker or with solr_wrapper), run the tests using the following commands:
+```sh
+rake engine_cart:generate
+rake spotlight:fixtures
+cd .internal_test_app && rake spec:prepare && cd - # not needed if you ran the dev server
+rspec
+```
+
+Using rspec directly allows you to run individual test files / lines.
+
+The `spec:prepare` task generates css assets for use by the tests. You can delete these assets with `rake assets:clobber`.
+
+Once you are set up, you can also run `rubocop` to enforce consistent coding style.
+
+#### External IIIF resources in JavaScript feature specs
+
+JavaScript feature specs run in a real browser, so WebMock can't intercept the requests it makes. To keep these specs from depending on external IIIF servers:
+
+* The test browser doesn't load images.
+* IIIF manifests are served from fixtures. When a document has a fixture at `spec/fixtures/iiif_manifests/<document_id>.json`, its autocomplete response points at that fixture instead of the live manifest (see `spec/support/iiif_manifest_fixtures.rb`). If a JavaScript spec selects a document that loads its manifest, add a fixture by saving the manifest from the document's `iiif_manifest_url_ssi` URL.
+
+IIIF image `info.json` requests, such as the ones the cropper makes, still go to the image server named in the manifest.
+
+
+### Individual commands
+
+#### Using solr_wrapper
+
+Start Solr with solr_wrapper: 
+```
+solr_wrapper
+```
+Reset Solr using solr_wrapper to a pristine state (e.g. remove Solr docs, core, etc.):
+```
+solr_wrapper clean
+```
+Note: Sometimes solr doesn't shut down properly.  You can check by seeing if solr is running:
+```
+ps -eaf | grep solr
+```
+
+#### Using test fixtures
+
+Add fixture data to Solr:
+```
+rake spotlight:fixtures
+```
+Delete an existing solr index:
+```
+rails c
+> Blacklight.default_index.connection.delete_by_query "*:*"
+> Blacklight.default_index.connection.commit
+```
+
+#### Generating and running the test app
+
+Build the test app: 
+```
+rake engine_cart:generate
+```
+From `./internal_test_app`, create the initial admin user:
+
+*With [default credientials](https://github.com/projectblacklight/spotlight/blob/9acd4bf5d4f2806b6e76aa03c31176ea5f6943de/lib/tasks/spotlight_tasks.rake#L20-L21)*
+```
+rake spotlight:seed_admin_user
+```
+*With user-provided credientials*
+```
+bin/rails spotlight:initialize
+```
+From `./internal_test_app`, start Rails to run the test app:
+```
+bin/dev
+```
+From the project root, delete the test app (if you want to regenerate from scratch):
+```
+$ rake engine_cart:clean
+```
+
+### Core Architecture
+
+A brief orientation to this codebase
+
+#### Key Concepts & Models
+- **Exhibits (`Spotlight::Exhibit`):** The primary organizational container for exhibits.
+- **Pages (`Spotlight::Page` / `Spotlight::HomePage`):** Curated pages inside an exhibit. It uses Sir Trevor for rich text block editing.
+- **Custom Fields (`Spotlight::CustomField`):** Admin-defined fields added to exhibit items (e.g., multivalued text fields, read-only metadata fields).
+- **Sidecars (`Spotlight::SolrDocumentSidecar`):** Database-backed extensions to Solr documents, allowing exhibit-specific metadata to persist locally.
+- **Resources (`Spotlight::Resource`):** External or uploaded content that gets converted into Solr documents.
+
+#### Frontend Asset Structure
+- **Source JavaScript:** Resides in `app/javascript/spotlight/` (e.g., admin widgets, custom field behaviors).
+- **Core Orchestration:** `app/javascript/spotlight/index.js` listens to page loads and instantiates class components (e.g., `new AddAnother().connect()`).
+- **Standard:** Spotlight prefers standard, modern JavaScript (ES6+) and is migrating away from jQuery dependencies.
+
+## Spotlight Community
+
+See [Contributing to Spotlight](/CONTRIBUTING.md) for general information about participation in the Spotlight community.
+
+### Where to find us
+
+- Join us on the [code4lib Slack](https://code4lib.org/irc)
+  - **#spotlight-development** - a developer-focused channel for Spotlight
+  - **#blacklight** - a developer-focused channel for discussing implementation, customization, and other software concerns in the larger [Blacklight community](http://projectblacklight.org/)
+  - **#spotlight-service** - a service-focused channel for people who support exhibit-builders at institutions already using Spotlight
+- Google Groups
+  - [Blacklight Development Google group](https://groups.google.com/forum/#!forum/blacklight-development)
+  - [Spotlight Community Group](https://groups.google.com/forum/#!forum/spotlight-community) (equivalent to #spotlight-service)
+>>>>>>> c1e02b8c (Serve IIIF manifest fixtures to javascript feature specs)
