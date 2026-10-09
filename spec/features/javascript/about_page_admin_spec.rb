@@ -12,9 +12,8 @@ describe 'About Pages Adminstration', js: true do
 
     click_link 'About pages'
 
-    add_new_via_button('My New Page')
+    add_new_via_button('My New Page', alert: 'The about page was created.')
 
-    expect(page).to have_text 'The about page was created.'
     expect(page).to have_css('li.dd-item')
     expect(page).to have_css('h3', text: 'My New Page')
   end
