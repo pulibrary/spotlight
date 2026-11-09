@@ -24,7 +24,7 @@ these collections.)
   s.add_dependency 'acts-as-taggable-on', '>= 5.0', '< 14'
   s.add_dependency 'autoprefixer-rails'
   s.add_dependency 'blacklight', '>= 7.40', '< 9'
-  s.add_dependency 'blacklight-gallery', '>= 3.0', '< 5'
+  s.add_dependency 'blacklight-gallery', '>= 5.1', '< 7'
   s.add_dependency 'bootstrap_form', '>= 4.1', '< 6'
   s.add_dependency 'cancancan'
   s.add_dependency 'carrierwave', '~> 2.2'
@@ -55,7 +55,7 @@ these collections.)
   s.add_dependency 'roar-rails'
   s.add_dependency 'signet'
   s.add_dependency 'tophat'
-  s.add_dependency 'view_component', '>= 2.66', '< 4'
+  s.add_dependency 'view_component', '~> 4.0'
 
   s.add_development_dependency 'capybara', '~> 3.31'
   s.add_development_dependency 'engine_cart', '~> 2.0'
