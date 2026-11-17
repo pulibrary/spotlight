@@ -21,7 +21,7 @@ describe 'Browse Category Administration', type: :feature do
       expect(page).to have_css('#save-modal')
       fill_in 'search_title', with: 'Some search'
       expect do
-        find('input[name="commit"]').click
+        find_field(name: 'commit').click
         exhibit.searches.reload
       end.to change { exhibit.searches.count }.by 1
       expect(exhibit.searches.last.query_params).to eq 'q' => 'xyz'
@@ -32,7 +32,7 @@ describe 'Browse Category Administration', type: :feature do
       click_button 'Save this search'
       expect(page).to have_css('#save-modal')
       select search.title, from: 'id'
-      find('input[name="commit"]').click
+      find_field(name: 'commit').click
       expect(search.reload.query_params).to eq 'q' => 'xyz'
     end
   end
@@ -57,7 +57,7 @@ describe 'Browse Category Administration', type: :feature do
         expect(page).to have_text 'You can add this browse category'
 
         within '#search-group' do
-          expect(find('input[type="checkbox"]')).not_to be_checked
+          expect(find_field(type: 'checkbox')).not_to be_checked
           check 'Good group'
         end
 
@@ -67,7 +67,7 @@ describe 'Browse Category Administration', type: :feature do
         click_link 'Group'
 
         within '#search-group' do
-          expect(find('input[type="checkbox"]')).to be_checked
+          expect(find_field(type: 'checkbox')).to be_checked
         end
       end
     end

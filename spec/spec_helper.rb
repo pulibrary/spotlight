@@ -140,7 +140,7 @@ def add_new_via_button(title = 'New Page')
   end
   add_link.hover
   within(add_link) do
-    input = find("input[type='text']", visible: true)
+    input = find_field(type: 'text', visible: true)
     input.set(title)
     find("input[data-behavior='save']").click
   end
