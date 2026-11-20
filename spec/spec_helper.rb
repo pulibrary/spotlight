@@ -20,6 +20,22 @@ require 'view_component/system_test_helpers'
 require 'selenium-webdriver'
 require 'webmock/rspec'
 
+# workaround for https://github.com/teamcapybara/capybara/issues/2865
+module ClearStorageWithoutWildcardOrigin
+  private
+
+  def execute_cdp(cmd, params = {})
+    return super unless cmd == 'Storage.clearDataForOrigin' && params[:origin] == '*'
+
+    types = params[:storageTypes].to_s.split(',')
+    super('Network.clearBrowserCookies') if types.delete('cookies')
+
+    origin = Capybara.current_session.server&.base_url
+    super(cmd, params.merge(origin: origin, storageTypes: types.join(','))) if origin && types.any?
+  end
+end
+Capybara::Selenium::Driver::ChromeDriver.prepend(ClearStorageWithoutWildcardOrigin)
+
 Capybara.register_driver :selenium_chrome_headless do |app|
   browser_options = Selenium::WebDriver::Chrome::Options.new
   browser_options.add_argument('--window-size=1920,1080')
