@@ -63,7 +63,7 @@ gem "blacklight-gallery", '4.9'
 gem "bootstrap_form", "~> 4.5"
 
 group :development, :test do
-  gem "solr_wrapper", ">= 0.3"
+  gem "solr_wrapper", "4.0"
 end
 gem "rsolr", ">= 1.0", "< 3"
 gem "sprockets-rails"

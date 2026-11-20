@@ -8,7 +8,7 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
-    name: test (ruby ${{ matrix.ruby }} / rails ${{ matrix.rails_version }} / blacklight ${{ matrix.blacklight_version }}
+    name: test
     strategy:
       matrix:
         rails_version: ["~> 8.1"]
@@ -21,7 +21,6 @@ jobs:
       RAILS_VERSION: ${{ matrix.rails_version }}
       BLACKLIGHT_VERSION: ${{ matrix.blacklight_version }}
       BOOTSTRAP_VERSION: ${{ matrix.bootstrap_version }}
-      ENGINE_CART_RAILS_OPTIONS: "--skip-git --skip-listen --skip-spring --skip-keeps --skip-coffee --skip-test ${{ matrix.additional_engine_cart_rails_options }}"
     steps:
       - name: Install ImageMagick
         run: sudo apt install imagemagick
