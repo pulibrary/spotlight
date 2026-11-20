@@ -3,10 +3,9 @@
 ENV['RAILS_ENV'] ||= 'test'
 require 'factory_bot'
 require 'devise'
-require 'engine_cart'
-EngineCart.load_application!
 
-ActiveJob::Base.queue_adapter = :test
+# adapted from engine_cart
+require File.expand_path('config/environment', '.internal_test_app')
 
 require 'rails-controller-testing'
 require 'rspec/collection_matchers'

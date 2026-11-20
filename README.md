@@ -68,7 +68,7 @@ See the [Spotlight wiki](https://github.com/projectblacklight/spotlight/wiki) fo
 
 Spotlight:
 
-* is a Rails engine and needs to be used in the context of a Rails application. We use [engine_cart](https://github.com/cbeer/engine_cart) to create an internal test application at .internal_test_app/
+* is a Rails engine and needs to be used in the context of a Rails application. We don't use [engine_cart](https://github.com/cbeer/engine_cart) anymore; we just have a permanent internal test application at .internal_test_app/
 * uses Solr as part of its integration tests. We use [solr_wrapper](https://github.com/cbeer/solr_wrapper) to manage the Solr instance used for development and test.
 
 Our `$ rake ci` and `$ rake spotlight:server` tasks utilize Solr and the testing rails app automatically.

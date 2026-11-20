@@ -56,7 +56,6 @@ these collections.)
   s.add_dependency 'view_component', '>= 2.66', '< 4'
 
   s.add_development_dependency 'capybara', '~> 3.31'
-  s.add_development_dependency 'engine_cart', '~> 2.0'
   s.add_development_dependency 'factory_bot', '~> 6.0'
   s.add_development_dependency 'i18n-tasks'
   s.add_development_dependency 'rails-controller-testing'
