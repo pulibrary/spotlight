@@ -1,0 +1,1056 @@
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+  [1m[35m (0.3ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL) /*application='Internal'*/[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.1ms)[0m  [1m[34mSELECT * FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = 'environment' ORDER BY "ar_internal_metadata"."key" ASC LIMIT 1 /*application='Internal'*/[0m
+  [1m[36mActiveRecord::InternalMetadata Create (0.1ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES ('environment', 'development', '2026-11-20 15:32:12.350708', '2026-11-20 15:32:12.350709') RETURNING "key" /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='Internal'*/[0m
+Migrating to CreateSearches (20261120153122)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.6ms)[0m  [1m[35mCREATE TABLE "searches" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "query_params" blob, "user_id" integer, "user_type" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_searches_on_user_id" ON "searches" ("user_id") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153122') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to CreateBookmarks (20261120153123)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "bookmarks" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "user_id" integer NOT NULL, "user_type" varchar, "document_id" varchar, "document_type" varchar, "title" blob, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_bookmarks_on_user_id" ON "bookmarks" ("user_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_bookmarks_on_document_id" ON "bookmarks" ("document_id") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153123') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddPolymorphicTypeToBookmarks (20261120153124)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153124') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to DeviseCreateUsers (20261120153203)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.5ms)[0m  [1m[35mCREATE TABLE "users" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "email" varchar DEFAULT '' NOT NULL, "encrypted_password" varchar DEFAULT '' NOT NULL, "reset_password_token" varchar, "reset_password_sent_at" datetime(6), "remember_created_at" datetime(6), "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_users_on_email" ON "users" ("email") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_users_on_reset_password_token" ON "users" ("reset_password_token") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153203') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddDeviseGuestsToUsers (20261120153205)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.5ms)[0m  [1m[35mALTER TABLE "users" ADD "guest" boolean DEFAULT FALSE /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153205') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to CreateSpotlightPages (20261120153210)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "spotlight_pages" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "type" varchar, "slug" varchar, "scope" varchar, "content" text, "weight" integer DEFAULT 50, "published" boolean, "exhibit_id" integer, "created_by_id" integer, "last_edited_by_id" integer, "created_at" datetime, "updated_at" datetime, "parent_page_id" integer, "display_sidebar" boolean, "display_title" boolean) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_pages_on_exhibit_id" ON "spotlight_pages" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_pages_on_parent_page_id" ON "spotlight_pages" ("parent_page_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_spotlight_pages_on_slug_and_scope" ON "spotlight_pages" ("slug", "scope") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153210') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to CreateSpotlightAttachments (20261120153211)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "spotlight_attachments" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "file" varchar, "uid" varchar, "exhibit_id" integer, "created_at" datetime, "updated_at" datetime) /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153211') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to CreateExhibits (20261120153212)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "spotlight_exhibits" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar NOT NULL, "subtitle" varchar, "slug" varchar, "description" text, "created_at" datetime, "updated_at" datetime) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_spotlight_exhibits_on_slug" ON "spotlight_exhibits" ("slug") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153212') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to CreateRoles (20261120153213)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "spotlight_roles" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "exhibit_id" integer, "user_id" integer, "role" varchar) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_spotlight_roles_on_exhibit_id_and_user_id" ON "spotlight_roles" ("exhibit_id", "user_id") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153213') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to CreateSpotlightSearches (20261120153214)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (1.4ms)[0m  [1m[35mCREATE TABLE "spotlight_searches" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "slug" varchar, "scope" varchar, "short_description" text, "long_description" text, "query_params" text, "weight" integer, "on_landing_page" boolean, "featured_image" varchar, "exhibit_id" integer, "created_at" datetime, "updated_at" datetime) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_searches_on_exhibit_id" ON "spotlight_searches" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_spotlight_searches_on_slug_and_scope" ON "spotlight_searches" ("slug", "scope") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153214') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to CreateSpotlightBlacklightConfigurations (20261120153215)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (1.0ms)[0m  [1m[35mCREATE TABLE "spotlight_blacklight_configurations" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "exhibit_id" integer, "facet_fields" text, "index_fields" text, "search_fields" text, "sort_fields" text, "default_solr_params" text, "show" text, "index" text, "default_per_page" integer, "per_page" text, "document_index_view_types" text, "thumbnail_size" varchar, "created_at" datetime, "updated_at" datetime) /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153215') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to ActsAsTaggableOnMigration (20261120153216)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "tags" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE TABLE "taggings" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "tag_id" integer, "taggable_id" varchar, "taggable_type" varchar, "tagger_type" varchar, "tagger_id" integer, "context" varchar(128), "created_at" datetime) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_taggings_on_tag_id" ON "taggings" ("tag_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_taggings_on_taggable_id_and_taggable_type_and_context" ON "taggings" ("taggable_id", "taggable_type", "context") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153216') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddMissingUniqueIndices (20261120153217)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.6ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_tags_on_name" ON "tags" ("name") /*application='Internal'*/[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[35mDROP INDEX "index_taggings_on_tag_id" /*application='Internal'*/[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[35mDROP INDEX "index_taggings_on_taggable_id_and_taggable_type_and_context" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "taggings_idx" ON "taggings" ("tag_id", "taggable_id", "taggable_type", "context", "tagger_id", "tagger_type") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153217') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to CreateSpotlightCustomFields (20261120153218)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.6ms)[0m  [1m[35mCREATE TABLE "spotlight_custom_fields" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "exhibit_id" integer, "slug" varchar, "field" varchar, "configuration" text, "created_at" datetime, "updated_at" datetime) /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153218') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to CreateSpotlightSolrDocumentSidecars (20261120153219)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "spotlight_solr_document_sidecars" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "exhibit_id" integer, "solr_document_id" varchar, "public" boolean DEFAULT TRUE, "data" text, "created_at" datetime, "updated_at" datetime) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_solr_document_sidecars_on_exhibit_id" ON "spotlight_solr_document_sidecars" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_solr_document_sidecars_on_solr_document_id" ON "spotlight_solr_document_sidecars" ("solr_document_id") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153219') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to CreateContacts (20261120153220)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.5ms)[0m  [1m[35mCREATE TABLE "spotlight_contacts" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "slug" varchar, "name" varchar, "email" varchar, "title" varchar, "location" varchar, "telephone" varchar, "show_in_sidebar" boolean, "weight" integer DEFAULT 50, "exhibit_id" integer, "created_at" datetime, "updated_at" datetime) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_contacts_on_exhibit_id" ON "spotlight_contacts" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153220') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to CreateContactEmails (20261120153221)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "spotlight_contact_emails" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "exhibit_id" integer, "email" varchar DEFAULT '' NOT NULL, "confirmation_token" varchar, "confirmed_at" datetime, "confirmation_sent_at" datetime, "unconfirmed_email" varchar, "created_at" datetime, "updated_at" datetime) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_spotlight_contact_emails_on_email_and_exhibit_id" ON "spotlight_contact_emails" ("email", "exhibit_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_spotlight_contact_emails_on_confirmation_token" ON "spotlight_contact_emails" ("confirmation_token") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153221') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to CreateResources (20261120153222)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "spotlight_resources" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "exhibit_id" integer, "type" varchar, "url" varchar, "data" text, "indexed_at" datetime, "created_at" datetime, "updated_at" datetime) /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153222') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to ChangeFeaturedImageToFeaturedImageId (20261120153223)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys = ON /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys = OFF /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE TEMPORARY TABLE "aspotlight_searches" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "slug" varchar, "scope" varchar, "short_description" text, "long_description" text, "query_params" text, "weight" integer, "on_landing_page" boolean, "featured_image" varchar, "exhibit_id" integer, "created_at" datetime, "updated_at" datetime) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "tindex_aspotlight_searches_on_slug_and_scope" ON "aspotlight_searches" ("slug", "scope") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "tindex_aspotlight_searches_on_exhibit_id" ON "aspotlight_searches" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO "aspotlight_searches" ("id","title","slug","scope","short_description","long_description","query_params","weight","on_landing_page","featured_image","exhibit_id","created_at","updated_at")
+                     SELECT "id","title","slug","scope","short_description","long_description","query_params","weight","on_landing_page","featured_image","exhibit_id","created_at","updated_at" FROM "spotlight_searches" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE "spotlight_searches" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE TABLE "spotlight_searches" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "slug" varchar, "scope" varchar, "short_description" text, "long_description" text, "query_params" text, "weight" integer, "on_landing_page" boolean, "exhibit_id" integer, "created_at" datetime, "updated_at" datetime) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_searches_on_exhibit_id" ON "spotlight_searches" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_spotlight_searches_on_slug_and_scope" ON "spotlight_searches" ("slug", "scope") /*application='Internal'*/[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO "spotlight_searches" ("id","title","slug","scope","short_description","long_description","query_params","weight","on_landing_page","exhibit_id","created_at","updated_at")
+                     SELECT "id","title","slug","scope","short_description","long_description","query_params","weight","on_landing_page","exhibit_id","created_at","updated_at" FROM "aspotlight_searches" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE "aspotlight_searches" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys = 0 /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys = 1 /*application='Internal'*/[0m
+  [1m[35m (0.2ms)[0m  [1m[35mALTER TABLE "spotlight_searches" ADD "featured_item_id" varchar /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153223') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to CreateSpotlightMainNavigations (20261120153224)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "spotlight_main_navigations" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "label" varchar, "weight" integer DEFAULT 20, "nav_type" varchar, "exhibit_id" integer, "created_at" datetime, "updated_at" datetime) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_main_navigations_on_exhibit_id" ON "spotlight_main_navigations" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153224') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to CreateLocks (20261120153225)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "spotlight_locks" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "on_type" varchar, "on_id" integer, "by_type" varchar, "by_id" integer, "created_at" datetime, "updated_at" datetime) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_spotlight_locks_on_on_id_and_on_type" ON "spotlight_locks" ("on_id", "on_type") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.1ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153225') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to ChangeContactDetails (20261120153226)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.5ms)[0m  [1m[35mALTER TABLE "spotlight_contacts" ADD "contact_info" text /*application='Internal'*/[0m
+Scoped order is ignored, use :cursor with :order to configure custom order.
+  [1m[36mSpotlight::Contact Load (0.0ms)[0m  [1m[34mSELECT "spotlight_contacts".* FROM "spotlight_contacts" ORDER BY "spotlight_contacts"."id" ASC LIMIT 1000 /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153226') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddAvatarToContacts (20261120153227)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.5ms)[0m  [1m[35mALTER TABLE "spotlight_contacts" ADD "avatar" varchar /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mALTER TABLE "spotlight_contacts" ADD "avatar_crop_x" integer /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mALTER TABLE "spotlight_contacts" ADD "avatar_crop_y" integer /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mALTER TABLE "spotlight_contacts" ADD "avatar_crop_w" integer /*application='Internal'*/[0m
+  [1m[35m (0.2ms)[0m  [1m[35mALTER TABLE "spotlight_contacts" ADD "avatar_crop_h" integer /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153227') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddLayoutOptionsToExhibit (20261120153228)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.5ms)[0m  [1m[35mALTER TABLE "spotlight_exhibits" ADD "searchable" boolean DEFAULT TRUE /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mALTER TABLE "spotlight_exhibits" ADD "layout" varchar /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153228') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddPublishedToExhibit (20261120153229)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.5ms)[0m  [1m[35mALTER TABLE "spotlight_exhibits" ADD "published" boolean DEFAULT FALSE /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mALTER TABLE "spotlight_exhibits" ADD "published_at" datetime /*application='Internal'*/[0m
+  [1m[36mSpotlight::Exhibit Load (0.0ms)[0m  [1m[34mSELECT "spotlight_exhibits".* FROM "spotlight_exhibits" ORDER BY "spotlight_exhibits"."id" ASC LIMIT 1000 /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153229') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddFeaturedImageToExhibit (20261120153230)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.6ms)[0m  [1m[35mALTER TABLE "spotlight_exhibits" ADD "featured_image" varchar /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153230') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddPolymorphicDocumentToSidecars (20261120153231)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.5ms)[0m  [1m[35mALTER TABLE "spotlight_solr_document_sidecars" ADD "document_id" varchar /*application='Internal'*/[0m
+  [1m[35m (0.2ms)[0m  [1m[35mALTER TABLE "spotlight_solr_document_sidecars" ADD "document_type" varchar /*application='Internal'*/[0m
+  [1m[36mSpotlight::SolrDocumentSidecar Load (0.0ms)[0m  [1m[34mSELECT "spotlight_solr_document_sidecars".* FROM "spotlight_solr_document_sidecars" ORDER BY "spotlight_solr_document_sidecars"."id" ASC LIMIT 1000 /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys = ON /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys = OFF /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE TEMPORARY TABLE "aspotlight_solr_document_sidecars" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "exhibit_id" integer, "solr_document_id" varchar, "public" boolean DEFAULT TRUE, "data" text, "created_at" datetime, "updated_at" datetime, "document_id" varchar, "document_type" varchar) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "tindex_aspotlight_solr_document_sidecars_on_solr_document_id" ON "aspotlight_solr_document_sidecars" ("solr_document_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "tindex_aspotlight_solr_document_sidecars_on_exhibit_id" ON "aspotlight_solr_document_sidecars" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO "aspotlight_solr_document_sidecars" ("id","exhibit_id","solr_document_id","public","data","created_at","updated_at","document_id","document_type")
+                     SELECT "id","exhibit_id","solr_document_id","public","data","created_at","updated_at","document_id","document_type" FROM "spotlight_solr_document_sidecars" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mDROP TABLE "spotlight_solr_document_sidecars" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE TABLE "spotlight_solr_document_sidecars" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "exhibit_id" integer, "public" boolean DEFAULT TRUE, "data" text, "created_at" datetime, "updated_at" datetime, "document_id" varchar, "document_type" varchar) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_solr_document_sidecars_on_exhibit_id" ON "spotlight_solr_document_sidecars" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO "spotlight_solr_document_sidecars" ("id","exhibit_id","public","data","created_at","updated_at","document_id","document_type")
+                     SELECT "id","exhibit_id","public","data","created_at","updated_at","document_id","document_type" FROM "aspotlight_solr_document_sidecars" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE "aspotlight_solr_document_sidecars" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys = 0 /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys = 1 /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_bookmarks_on_document_type_and_document_id" ON "bookmarks" ("document_type", "document_id") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153231') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddSpotlightFeaturedImages (20261120153232)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "spotlight_featured_images" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "type" varchar, "display" boolean, "image" varchar, "source" varchar, "document_global_id" varchar, "image_crop_x" integer, "image_crop_y" integer, "image_crop_w" integer, "image_crop_h" integer, "created_at" datetime, "updated_at" datetime) /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153232') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddFeaturedImageToSpotlightClasses (20261120153233)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.5ms)[0m  [1m[35mALTER TABLE "spotlight_searches" ADD "masthead_id" integer /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mALTER TABLE "spotlight_searches" ADD "thumbnail_id" integer /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mALTER TABLE "spotlight_exhibits" ADD "masthead_id" integer /*application='Internal'*/[0m
+  [1m[35m (0.2ms)[0m  [1m[35mALTER TABLE "spotlight_exhibits" ADD "thumbnail_id" integer /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mALTER TABLE "spotlight_pages" ADD "thumbnail_id" integer /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153233') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddDisplayToSpotlightMainNavigations (20261120153234)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (5.7ms)[0m  [1m[35mALTER TABLE "spotlight_main_navigations" ADD "display" boolean DEFAULT TRUE /*application='Internal'*/[0m
+  [1m[36mSpotlight::MainNavigation Update All (0.0ms)[0m  [1m[33mUPDATE "spotlight_main_navigations" SET "display" = TRUE WHERE ("spotlight_main_navigations"."id") IN (SELECT "spotlight_main_navigations"."id" FROM "spotlight_main_navigations" ORDER BY weight ASC) /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153234') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddFieldTypeToCustomFields (20261120153235)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.5ms)[0m  [1m[35mALTER TABLE "spotlight_custom_fields" ADD "field_type" varchar /*application='Internal'*/[0m
+  [1m[36mSpotlight::CustomField Update All (0.0ms)[0m  [1m[33mUPDATE "spotlight_custom_fields" SET "field_type" = 'text' /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153235') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddTaggingsCounterCacheToTags (20261120153236)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.5ms)[0m  [1m[35mALTER TABLE "tags" ADD "taggings_count" integer DEFAULT 0 /*application='Internal'*/[0m
+  [1m[36mActsAsTaggableOn::Tag Load (0.0ms)[0m  [1m[34mSELECT "tags".* FROM "tags" ORDER BY "tags"."id" ASC LIMIT 1000 /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153236') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddMissingTaggableIndex (20261120153237)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE INDEX "index_taggings_on_taggable_id_and_taggable_type_and_context" ON "taggings" ("taggable_id", "taggable_type", "context") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153237') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to ChangeCollationForTagNames (20261120153238)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.3ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153238') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to ChangeSpotlightSearchesToPublished (20261120153239)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys = ON /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys = OFF /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TEMPORARY TABLE "aspotlight_searches" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "slug" varchar, "scope" varchar, "short_description" text, "long_description" text, "query_params" text, "weight" integer, "published" boolean, "exhibit_id" integer, "created_at" datetime, "updated_at" datetime, "featured_item_id" varchar, "masthead_id" integer, "thumbnail_id" integer) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "tindex_aspotlight_searches_on_slug_and_scope" ON "aspotlight_searches" ("slug", "scope") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "tindex_aspotlight_searches_on_exhibit_id" ON "aspotlight_searches" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO "aspotlight_searches" ("id","title","slug","scope","short_description","long_description","query_params","weight","published","exhibit_id","created_at","updated_at","featured_item_id","masthead_id","thumbnail_id")
+                     SELECT "id","title","slug","scope","short_description","long_description","query_params","weight","on_landing_page","exhibit_id","created_at","updated_at","featured_item_id","masthead_id","thumbnail_id" FROM "spotlight_searches" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE "spotlight_searches" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE TABLE "spotlight_searches" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "slug" varchar, "scope" varchar, "short_description" text, "long_description" text, "query_params" text, "weight" integer, "published" boolean, "exhibit_id" integer, "created_at" datetime, "updated_at" datetime, "featured_item_id" varchar, "masthead_id" integer, "thumbnail_id" integer) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_searches_on_exhibit_id" ON "spotlight_searches" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_spotlight_searches_on_slug_and_scope" ON "spotlight_searches" ("slug", "scope") /*application='Internal'*/[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO "spotlight_searches" ("id","title","slug","scope","short_description","long_description","query_params","weight","published","exhibit_id","created_at","updated_at","featured_item_id","masthead_id","thumbnail_id")
+                     SELECT "id","title","slug","scope","short_description","long_description","query_params","weight","published","exhibit_id","created_at","updated_at","featured_item_id","masthead_id","thumbnail_id" FROM "aspotlight_searches" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE "aspotlight_searches" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys = 0 /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys = 1 /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153239') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to RemoveSearchableFromExhibit (20261120153240)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[36mSpotlight::Exhibit Load (0.4ms)[0m  [1m[34mSELECT "spotlight_exhibits".* FROM "spotlight_exhibits" WHERE "spotlight_exhibits"."searchable" = FALSE ORDER BY "spotlight_exhibits"."id" ASC LIMIT 1000 /*application='Internal'*/[0m
+  [1m[36mSpotlight::Exhibit Load (0.0ms)[0m  [1m[34mSELECT "spotlight_exhibits".* FROM "spotlight_exhibits" WHERE "spotlight_exhibits"."searchable" = TRUE ORDER BY "spotlight_exhibits"."id" ASC LIMIT 1000 /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys = ON /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys = OFF /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE TEMPORARY TABLE "aspotlight_exhibits" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar NOT NULL, "subtitle" varchar, "slug" varchar, "description" text, "created_at" datetime, "updated_at" datetime, "searchable" boolean DEFAULT TRUE, "layout" varchar, "published" boolean DEFAULT FALSE, "published_at" datetime, "featured_image" varchar, "masthead_id" integer, "thumbnail_id" integer) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "tindex_aspotlight_exhibits_on_slug" ON "aspotlight_exhibits" ("slug") /*application='Internal'*/[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO "aspotlight_exhibits" ("id","title","subtitle","slug","description","created_at","updated_at","searchable","layout","published","published_at","featured_image","masthead_id","thumbnail_id")
+                     SELECT "id","title","subtitle","slug","description","created_at","updated_at","searchable","layout","published","published_at","featured_image","masthead_id","thumbnail_id" FROM "spotlight_exhibits" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE "spotlight_exhibits" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE TABLE "spotlight_exhibits" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar NOT NULL, "subtitle" varchar, "slug" varchar, "description" text, "created_at" datetime, "updated_at" datetime, "layout" varchar, "published" boolean DEFAULT FALSE, "published_at" datetime, "featured_image" varchar, "masthead_id" integer, "thumbnail_id" integer) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_spotlight_exhibits_on_slug" ON "spotlight_exhibits" ("slug") /*application='Internal'*/[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO "spotlight_exhibits" ("id","title","subtitle","slug","description","created_at","updated_at","layout","published","published_at","featured_image","masthead_id","thumbnail_id")
+                     SELECT "id","title","subtitle","slug","description","created_at","updated_at","layout","published","published_at","featured_image","masthead_id","thumbnail_id" FROM "aspotlight_exhibits" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE "aspotlight_exhibits" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys = 0 /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys = 1 /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153240') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddMetadataToSpotlightResource (20261120153241)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.5ms)[0m  [1m[35mALTER TABLE "spotlight_resources" ADD "metadata" blob /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153241') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to ChangeSpotlightExhibitPublishedDefault (20261120153242)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys = ON /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys = OFF /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE TEMPORARY TABLE "aspotlight_exhibits" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar NOT NULL, "subtitle" varchar, "slug" varchar, "description" text, "created_at" datetime, "updated_at" datetime, "layout" varchar, "published" boolean DEFAULT FALSE, "published_at" datetime, "featured_image" varchar, "masthead_id" integer, "thumbnail_id" integer) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "tindex_aspotlight_exhibits_on_slug" ON "aspotlight_exhibits" ("slug") /*application='Internal'*/[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO "aspotlight_exhibits" ("id","title","subtitle","slug","description","created_at","updated_at","layout","published","published_at","featured_image","masthead_id","thumbnail_id")
+                     SELECT "id","title","subtitle","slug","description","created_at","updated_at","layout","published","published_at","featured_image","masthead_id","thumbnail_id" FROM "spotlight_exhibits" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE "spotlight_exhibits" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE TABLE "spotlight_exhibits" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar NOT NULL, "subtitle" varchar, "slug" varchar, "description" text, "created_at" datetime, "updated_at" datetime, "layout" varchar, "published" boolean DEFAULT FALSE, "published_at" datetime, "featured_image" varchar, "masthead_id" integer, "thumbnail_id" integer) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_spotlight_exhibits_on_slug" ON "spotlight_exhibits" ("slug") /*application='Internal'*/[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO "spotlight_exhibits" ("id","title","subtitle","slug","description","created_at","updated_at","layout","published","published_at","featured_image","masthead_id","thumbnail_id")
+                     SELECT "id","title","subtitle","slug","description","created_at","updated_at","layout","published","published_at","featured_image","masthead_id","thumbnail_id" FROM "aspotlight_exhibits" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE "aspotlight_exhibits" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys = 0 /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys = 1 /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153242') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to RemoveDefaultFromSpotlightExhibit (20261120153243)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.3ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153243') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to UpdateCustomFieldNames (20261120153244)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[36mSpotlight::CustomField Load (0.4ms)[0m  [1m[34mSELECT "spotlight_custom_fields".* FROM "spotlight_custom_fields" ORDER BY "spotlight_custom_fields"."id" ASC LIMIT 1000 /*application='Internal'*/[0m
+  [1m[36mSpotlight::SolrDocumentSidecar Load (0.0ms)[0m  [1m[34mSELECT "spotlight_solr_document_sidecars".* FROM "spotlight_solr_document_sidecars" ORDER BY "spotlight_solr_document_sidecars"."id" ASC LIMIT 1000 /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153244') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddWeightToExhibits (20261120153245)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.5ms)[0m  [1m[35mALTER TABLE "spotlight_exhibits" ADD "weight" integer DEFAULT 50 /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153245') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to CreateSpotlightSite (20261120153246)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "spotlight_sites" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "subtitle" varchar, "masthead_id" integer) /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153246') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddSiteToSpotlightExhibits (20261120153247)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.5ms)[0m  [1m[35mALTER TABLE "spotlight_exhibits" ADD "site_id" integer /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_exhibits_on_site_id" ON "spotlight_exhibits" ("site_id") /*application='Internal'*/[0m
+  [1m[36mSpotlight::Exhibit Load (0.0ms)[0m  [1m[34mSELECT "spotlight_exhibits".* FROM "spotlight_exhibits" ORDER BY "spotlight_exhibits"."id" ASC LIMIT 1000 /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153247') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to ChangeRolesToSupportPolymorphicAssociations (20261120153248)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.7ms)[0m  [1m[35mALTER TABLE "spotlight_roles" ADD "resource_id" integer /*application='Internal'*/[0m
+  [1m[35m (0.2ms)[0m  [1m[35mALTER TABLE "spotlight_roles" ADD "resource_type" varchar /*application='Internal'*/[0m
+  [1m[36mSpotlight::Role Load (0.0ms)[0m  [1m[34mSELECT "spotlight_roles".* FROM "spotlight_roles" ORDER BY "spotlight_roles"."id" ASC LIMIT 1000 /*application='Internal'*/[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[35mDROP INDEX "index_spotlight_roles_on_exhibit_id_and_user_id" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys = ON /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys = OFF /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE TEMPORARY TABLE "aspotlight_roles" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "exhibit_id" integer, "user_id" integer, "role" varchar, "resource_id" integer, "resource_type" varchar) /*application='Internal'*/[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO "aspotlight_roles" ("id","exhibit_id","user_id","role","resource_id","resource_type")
+                     SELECT "id","exhibit_id","user_id","role","resource_id","resource_type" FROM "spotlight_roles" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE "spotlight_roles" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE TABLE "spotlight_roles" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "user_id" integer, "role" varchar, "resource_id" integer, "resource_type" varchar) /*application='Internal'*/[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO "spotlight_roles" ("id","user_id","role","resource_id","resource_type")
+                     SELECT "id","user_id","role","resource_id","resource_type" FROM "aspotlight_roles" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE "aspotlight_roles" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys = 0 /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys = 1 /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_spotlight_roles_on_resource_and_user_id" ON "spotlight_roles" ("resource_type", "resource_id", "user_id") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153248') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddIndexStatusToResources (20261120153249)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.5ms)[0m  [1m[35mALTER TABLE "spotlight_resources" ADD "index_status" integer /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_resources_on_index_status" ON "spotlight_resources" ("index_status") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153249') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to CreateSpotlightExhibitFilters (20261120153250)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "spotlight_filters" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "field" varchar, "value" varchar, "exhibit_id" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_filters_on_exhibit_id" ON "spotlight_filters" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[36mSpotlight::Exhibit Load (0.0ms)[0m  [1m[34mSELECT "spotlight_exhibits".* FROM "spotlight_exhibits" /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153250') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddReadonlyToCustomFields (20261120153251)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (2.4ms)[0m  [1m[35mALTER TABLE "spotlight_custom_fields" ADD "readonly_field" boolean DEFAULT FALSE /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153251') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddDefaultViewToSpotlightSearches (20261120153252)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.5ms)[0m  [1m[35mALTER TABLE "spotlight_searches" ADD "default_index_view_type" varchar /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153252') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddIiifUrlsToFeaturedImage (20261120153253)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.5ms)[0m  [1m[35mALTER TABLE "spotlight_featured_images" ADD "iiif_region" varchar /*application='Internal'*/[0m
+  [1m[35m (0.2ms)[0m  [1m[35mALTER TABLE "spotlight_featured_images" ADD "iiif_manifest_url" varchar /*application='Internal'*/[0m
+  [1m[35m (0.2ms)[0m  [1m[35mALTER TABLE "spotlight_featured_images" ADD "iiif_canvas_id" varchar /*application='Internal'*/[0m
+  [1m[35m (0.2ms)[0m  [1m[35mALTER TABLE "spotlight_featured_images" ADD "iiif_image_id" varchar /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mALTER TABLE "spotlight_featured_images" ADD "iiif_tilesource" varchar /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153253') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddIiifUrlToContact (20261120153254)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.5ms)[0m  [1m[35mALTER TABLE "spotlight_contacts" ADD "avatar_id" integer /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_contacts_on_avatar_id" ON "spotlight_contacts" ("avatar_id") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153254') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddUploadIdToResources (20261120153255)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.5ms)[0m  [1m[35mALTER TABLE "spotlight_resources" ADD "upload_id" integer /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_resources_on_upload_id" ON "spotlight_resources" ("upload_id") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153255') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddResourceToSolrDocumentSidecar (20261120153256)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.5ms)[0m  [1m[35mALTER TABLE "spotlight_solr_document_sidecars" ADD "resource_id" integer /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mALTER TABLE "spotlight_solr_document_sidecars" ADD "resource_type" varchar /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "spotlight_solr_document_sidecars_resource" ON "spotlight_solr_document_sidecars" ("resource_type", "resource_id") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153256') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddIndexStatusToSolrDocumentSidecar (20261120153257)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.6ms)[0m  [1m[35mALTER TABLE "spotlight_solr_document_sidecars" ADD "index_status" blob /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153257') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddDocumentIndexToSolrDocumentSidecar (20261120153258)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE INDEX "spotlight_solr_document_sidecars_exhibit_document" ON "spotlight_solr_document_sidecars" ("exhibit_id", "document_type", "document_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "spotlight_solr_document_sidecars_solr_document" ON "spotlight_solr_document_sidecars" ("document_type", "document_id") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153258') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to CreateSpotlightReindexingLogEntries (20261120153259)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "spotlight_reindexing_log_entries" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "items_reindexed_count" integer, "items_reindexed_estimate" integer, "start_time" datetime, "end_time" datetime, "job_status" integer, "exhibit_id" integer, "user_id" integer, "created_at" datetime, "updated_at" datetime) /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153259') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddThemeToSpotlightExhibits (20261120153260)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.5ms)[0m  [1m[35mALTER TABLE "spotlight_exhibits" ADD "theme" varchar /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153260') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to MigrateTagsToSidecars (20261120153261)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[36mActsAsTaggableOn::Tagging Load (0.0ms)[0m  [1m[34mSELECT "taggings".* FROM "taggings" WHERE "taggings"."taggable_type" = 'SolrDocument' AND "taggings"."tagger_type" = 'Spotlight::Exhibit' ORDER BY "taggings"."id" ASC LIMIT 1000 /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153261') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to ChangeIndexStatusToLongblob (20261120153262)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys = ON /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys = OFF /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE TEMPORARY TABLE "aspotlight_solr_document_sidecars" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "exhibit_id" integer, "public" boolean DEFAULT TRUE, "data" text, "created_at" datetime, "updated_at" datetime, "document_id" varchar, "document_type" varchar, "resource_id" integer, "resource_type" varchar, "index_status" blob) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "tspotlight_solr_document_sidecars_solr_document" ON "aspotlight_solr_document_sidecars" ("document_type", "document_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "tspotlight_solr_document_sidecars_exhibit_document" ON "aspotlight_solr_document_sidecars" ("exhibit_id", "document_type", "document_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "tspotlight_solr_document_sidecars_resource" ON "aspotlight_solr_document_sidecars" ("resource_type", "resource_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "tindex_aspotlight_solr_document_sidecars_on_exhibit_id" ON "aspotlight_solr_document_sidecars" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO "aspotlight_solr_document_sidecars" ("id","exhibit_id","public","data","created_at","updated_at","document_id","document_type","resource_id","resource_type","index_status")
+                     SELECT "id","exhibit_id","public","data","created_at","updated_at","document_id","document_type","resource_id","resource_type","index_status" FROM "spotlight_solr_document_sidecars" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE "spotlight_solr_document_sidecars" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE TABLE "spotlight_solr_document_sidecars" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "exhibit_id" integer, "public" boolean DEFAULT TRUE, "data" text, "created_at" datetime, "updated_at" datetime, "document_id" varchar, "document_type" varchar, "resource_id" integer, "resource_type" varchar, "index_status" blob(10485760)) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_solr_document_sidecars_on_exhibit_id" ON "spotlight_solr_document_sidecars" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "spotlight_solr_document_sidecars_resource" ON "spotlight_solr_document_sidecars" ("resource_type", "resource_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "spotlight_solr_document_sidecars_exhibit_document" ON "spotlight_solr_document_sidecars" ("exhibit_id", "document_type", "document_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "spotlight_solr_document_sidecars_solr_document" ON "spotlight_solr_document_sidecars" ("document_type", "document_id") /*application='Internal'*/[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO "spotlight_solr_document_sidecars" ("id","exhibit_id","public","data","created_at","updated_at","document_id","document_type","resource_id","resource_type","index_status")
+                     SELECT "id","exhibit_id","public","data","created_at","updated_at","document_id","document_type","resource_id","resource_type","index_status" FROM "aspotlight_solr_document_sidecars" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE "aspotlight_solr_document_sidecars" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys = 0 /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys = 1 /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153262') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddMissingIndexesOnTaggings (20261120153263)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_taggings_on_tag_id" ON "taggings" ("tag_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_taggings_on_taggable_id" ON "taggings" ("taggable_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_taggings_on_taggable_type" ON "taggings" ("taggable_type") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_taggings_on_tagger_id" ON "taggings" ("tagger_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_taggings_on_context" ON "taggings" ("context") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_taggings_on_tagger_id_and_tagger_type" ON "taggings" ("tagger_id", "tagger_type") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "taggings_idy" ON "taggings" ("taggable_id", "taggable_type", "tagger_id", "context") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153263') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddSearchBoxToSpotlightSearches (20261120153264)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.5ms)[0m  [1m[35mALTER TABLE "spotlight_searches" ADD "search_box" boolean DEFAULT FALSE /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153264') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to CreateTranslations (20261120153265)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "translations" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "locale" varchar, "key" varchar, "value" text, "interpolations" text, "is_proc" boolean DEFAULT FALSE, "exhibit_id" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_translations_on_exhibit_id" ON "translations" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153265') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to CreateSpotlightLanguages (20261120153266)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "spotlight_languages" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "locale" varchar NOT NULL, "public" boolean, "text" varchar, "exhibit_id" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_languages_on_exhibit_id" ON "spotlight_languages" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.1ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153266') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to TranslationUniqueness (20261120153267)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_translations_on_exhibit_id_and_key_and_locale" ON "translations" ("exhibit_id", "key", "locale") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153267') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddLocaleToPages (20261120153268)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.7ms)[0m  [1m[35mALTER TABLE "spotlight_pages" ADD "locale" varchar DEFAULT 'en' /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_pages_on_locale" ON "spotlight_pages" ("locale") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153268') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddDefaultLocaleReferenceToSpotlightPages (20261120153269)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.6ms)[0m  [1m[35mALTER TABLE "spotlight_pages" ADD "default_locale_page_id" integer /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_pages_on_default_locale_page_id" ON "spotlight_pages" ("default_locale_page_id") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153269') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to ChangeSpotlightPagesContentColumnToMediumText (20261120153270)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys = ON /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys = OFF /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE TEMPORARY TABLE "aspotlight_pages" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "type" varchar, "slug" varchar, "scope" varchar, "content" text, "weight" integer DEFAULT 50, "published" boolean, "exhibit_id" integer, "created_by_id" integer, "last_edited_by_id" integer, "created_at" datetime, "updated_at" datetime, "parent_page_id" integer, "display_sidebar" boolean, "display_title" boolean, "thumbnail_id" integer, "locale" varchar DEFAULT 'en', "default_locale_page_id" integer) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "tindex_aspotlight_pages_on_default_locale_page_id" ON "aspotlight_pages" ("default_locale_page_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "tindex_aspotlight_pages_on_locale" ON "aspotlight_pages" ("locale") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "tindex_aspotlight_pages_on_slug_and_scope" ON "aspotlight_pages" ("slug", "scope") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "tindex_aspotlight_pages_on_parent_page_id" ON "aspotlight_pages" ("parent_page_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "tindex_aspotlight_pages_on_exhibit_id" ON "aspotlight_pages" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO "aspotlight_pages" ("id","title","type","slug","scope","content","weight","published","exhibit_id","created_by_id","last_edited_by_id","created_at","updated_at","parent_page_id","display_sidebar","display_title","thumbnail_id","locale","default_locale_page_id")
+                     SELECT "id","title","type","slug","scope","content","weight","published","exhibit_id","created_by_id","last_edited_by_id","created_at","updated_at","parent_page_id","display_sidebar","display_title","thumbnail_id","locale","default_locale_page_id" FROM "spotlight_pages" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mDROP TABLE "spotlight_pages" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE TABLE "spotlight_pages" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "type" varchar, "slug" varchar, "scope" varchar, "content" text(16777215), "weight" integer DEFAULT 50, "published" boolean, "exhibit_id" integer, "created_by_id" integer, "last_edited_by_id" integer, "created_at" datetime, "updated_at" datetime, "parent_page_id" integer, "display_sidebar" boolean, "display_title" boolean, "thumbnail_id" integer, "locale" varchar DEFAULT 'en', "default_locale_page_id" integer) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_pages_on_exhibit_id" ON "spotlight_pages" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_pages_on_parent_page_id" ON "spotlight_pages" ("parent_page_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_spotlight_pages_on_slug_and_scope" ON "spotlight_pages" ("slug", "scope") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_pages_on_locale" ON "spotlight_pages" ("locale") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_pages_on_default_locale_page_id" ON "spotlight_pages" ("default_locale_page_id") /*application='Internal'*/[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO "spotlight_pages" ("id","title","type","slug","scope","content","weight","published","exhibit_id","created_by_id","last_edited_by_id","created_at","updated_at","parent_page_id","display_sidebar","display_title","thumbnail_id","locale","default_locale_page_id")
+                     SELECT "id","title","type","slug","scope","content","weight","published","exhibit_id","created_by_id","last_edited_by_id","created_at","updated_at","parent_page_id","display_sidebar","display_title","thumbnail_id","locale","default_locale_page_id" FROM "aspotlight_pages" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE "aspotlight_pages" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys = 0 /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys = 1 /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153270') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to ChangeTypeOfTaggingsTaggable (20261120153271)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys = ON /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys = OFF /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE TEMPORARY TABLE "ataggings" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "tag_id" integer, "taggable_id" varchar, "taggable_type" varchar, "tagger_type" varchar, "tagger_id" integer, "context" varchar(128), "created_at" datetime) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "ttaggings_idy" ON "ataggings" ("taggable_id", "taggable_type", "tagger_id", "context") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "tindex_ataggings_on_tagger_id_and_tagger_type" ON "ataggings" ("tagger_id", "tagger_type") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "tindex_ataggings_on_context" ON "ataggings" ("context") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "tindex_ataggings_on_tagger_id" ON "ataggings" ("tagger_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "tindex_ataggings_on_taggable_type" ON "ataggings" ("taggable_type") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "tindex_ataggings_on_taggable_id" ON "ataggings" ("taggable_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "tindex_ataggings_on_tag_id" ON "ataggings" ("tag_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "tindex_ataggings_on_taggable_id_and_taggable_type_and_context" ON "ataggings" ("taggable_id", "taggable_type", "context") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "ttaggings_idx" ON "ataggings" ("tag_id", "taggable_id", "taggable_type", "context", "tagger_id", "tagger_type") /*application='Internal'*/[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO "ataggings" ("id","tag_id","taggable_id","taggable_type","tagger_type","tagger_id","context","created_at")
+                     SELECT "id","tag_id","taggable_id","taggable_type","tagger_type","tagger_id","context","created_at" FROM "taggings" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mDROP TABLE "taggings" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE TABLE "taggings" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "tag_id" integer, "taggable_id" integer, "taggable_type" varchar, "tagger_type" varchar, "tagger_id" integer, "context" varchar(128), "created_at" datetime) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "taggings_idx" ON "taggings" ("tag_id", "taggable_id", "taggable_type", "context", "tagger_id", "tagger_type") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_taggings_on_taggable_id_and_taggable_type_and_context" ON "taggings" ("taggable_id", "taggable_type", "context") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_taggings_on_tag_id" ON "taggings" ("tag_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_taggings_on_taggable_id" ON "taggings" ("taggable_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_taggings_on_taggable_type" ON "taggings" ("taggable_type") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_taggings_on_tagger_id" ON "taggings" ("tagger_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_taggings_on_context" ON "taggings" ("context") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_taggings_on_tagger_id_and_tagger_type" ON "taggings" ("tagger_id", "tagger_type") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "taggings_idy" ON "taggings" ("taggable_id", "taggable_type", "tagger_id", "context") /*application='Internal'*/[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO "taggings" ("id","tag_id","taggable_id","taggable_type","tagger_type","tagger_id","context","created_at")
+                     SELECT "id","tag_id","taggable_id","taggable_type","tagger_type","tagger_id","context","created_at" FROM "ataggings" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mDROP TABLE "ataggings" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys = 0 /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys = 1 /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153271') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to ChangeWeightOnPages (20261120153272)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys = ON /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys = OFF /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE TEMPORARY TABLE "aspotlight_pages" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "type" varchar, "slug" varchar, "scope" varchar, "content" text(16777215), "weight" integer DEFAULT 50, "published" boolean, "exhibit_id" integer, "created_by_id" integer, "last_edited_by_id" integer, "created_at" datetime, "updated_at" datetime, "parent_page_id" integer, "display_sidebar" boolean, "display_title" boolean, "thumbnail_id" integer, "locale" varchar DEFAULT 'en', "default_locale_page_id" integer) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "tindex_aspotlight_pages_on_default_locale_page_id" ON "aspotlight_pages" ("default_locale_page_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "tindex_aspotlight_pages_on_locale" ON "aspotlight_pages" ("locale") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "tindex_aspotlight_pages_on_slug_and_scope" ON "aspotlight_pages" ("slug", "scope") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "tindex_aspotlight_pages_on_parent_page_id" ON "aspotlight_pages" ("parent_page_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "tindex_aspotlight_pages_on_exhibit_id" ON "aspotlight_pages" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO "aspotlight_pages" ("id","title","type","slug","scope","content","weight","published","exhibit_id","created_by_id","last_edited_by_id","created_at","updated_at","parent_page_id","display_sidebar","display_title","thumbnail_id","locale","default_locale_page_id")
+                     SELECT "id","title","type","slug","scope","content","weight","published","exhibit_id","created_by_id","last_edited_by_id","created_at","updated_at","parent_page_id","display_sidebar","display_title","thumbnail_id","locale","default_locale_page_id" FROM "spotlight_pages" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE "spotlight_pages" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE TABLE "spotlight_pages" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "type" varchar, "slug" varchar, "scope" varchar, "content" text(16777215), "weight" integer DEFAULT 1000, "published" boolean, "exhibit_id" integer, "created_by_id" integer, "last_edited_by_id" integer, "created_at" datetime, "updated_at" datetime, "parent_page_id" integer, "display_sidebar" boolean, "display_title" boolean, "thumbnail_id" integer, "locale" varchar DEFAULT 'en', "default_locale_page_id" integer) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_pages_on_exhibit_id" ON "spotlight_pages" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_pages_on_parent_page_id" ON "spotlight_pages" ("parent_page_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_spotlight_pages_on_slug_and_scope" ON "spotlight_pages" ("slug", "scope") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_pages_on_locale" ON "spotlight_pages" ("locale") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_pages_on_default_locale_page_id" ON "spotlight_pages" ("default_locale_page_id") /*application='Internal'*/[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO "spotlight_pages" ("id","title","type","slug","scope","content","weight","published","exhibit_id","created_by_id","last_edited_by_id","created_at","updated_at","parent_page_id","display_sidebar","display_title","thumbnail_id","locale","default_locale_page_id")
+                     SELECT "id","title","type","slug","scope","content","weight","published","exhibit_id","created_by_id","last_edited_by_id","created_at","updated_at","parent_page_id","display_sidebar","display_title","thumbnail_id","locale","default_locale_page_id" FROM "aspotlight_pages" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE "aspotlight_pages" /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys = 0 /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys = 1 /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153272') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddContentTypeToPages (20261120153273)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.6ms)[0m  [1m[35mALTER TABLE "spotlight_pages" ADD "content_type" varchar /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153273') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddIsMultipleToCustomFields (20261120153274)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (1.0ms)[0m  [1m[35mALTER TABLE "spotlight_custom_fields" ADD "is_multiple" boolean DEFAULT FALSE /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153274') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to CreateSpotlightCustomSearchFields (20261120153275)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "spotlight_custom_search_fields" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "slug" varchar, "field" varchar, "configuration" text, "exhibit_id" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_custom_search_fields_on_exhibit_id" ON "spotlight_custom_search_fields" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153275') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddUniqueIndexToSidecars (20261120153276)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.5ms)[0m  [1m[35mCREATE UNIQUE INDEX "by_exhibit_and_doc" ON "spotlight_solr_document_sidecars" ("exhibit_id", "document_type", "document_id") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153276') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddSubtitleToSearches (20261120153277)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.6ms)[0m  [1m[35mALTER TABLE "spotlight_searches" ADD "subtitle" varchar /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153277') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to CreateSpotlightGroups (20261120153278)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "spotlight_groups" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "slug" varchar, "title" text, "exhibit_id" integer, "weight" integer DEFAULT 50, "published" boolean, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_groups_on_exhibit_id" ON "spotlight_groups" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE TABLE "spotlight_groups_members" ("group_id" integer, "member_type" varchar, "member_id" integer) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_groups_members_on_group_id" ON "spotlight_groups_members" ("group_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_groups_members_on_member_type_and_member_id" ON "spotlight_groups_members" ("member_type", "member_id") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153278') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to CreateJobTrackers (20261120153279)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.3ms)[0m  [1m[35mCREATE TABLE "spotlight_job_trackers" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "on_type" varchar NOT NULL, "on_id" integer NOT NULL, "resource_type" varchar NOT NULL, "resource_id" integer NOT NULL, "job_id" varchar, "job_class" varchar, "parent_job_id" varchar, "parent_job_class" varchar, "status" varchar, "user_id" integer, "log" text, "data" text, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_job_trackers_on_on_type_and_on_id" ON "spotlight_job_trackers" ("on_type", "on_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_job_trackers_on_resource_type_and_resource_id" ON "spotlight_job_trackers" ("resource_type", "resource_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_job_trackers_on_user_id" ON "spotlight_job_trackers" ("user_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_job_trackers_on_job_id" ON "spotlight_job_trackers" ("job_id") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153279') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to CreateEvents (20261120153280)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "spotlight_events" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "exhibit_id" integer, "resource_type" varchar NOT NULL, "resource_id" integer NOT NULL, "type" varchar, "collation_key" varchar, "data" text, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_events_on_exhibit_id" ON "spotlight_events" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_events_on_resource_type_and_resource_id" ON "spotlight_events" ("resource_type", "resource_id") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153280') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to RemoveClassFromSirtrevorImageBlocks (20261120153281)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+Scoped order is ignored, use :cursor with :order to configure custom order.
+  [1m[36mSpotlight::Page Load (0.0ms)[0m  [1m[34mSELECT "spotlight_pages".* FROM "spotlight_pages" ORDER BY "spotlight_pages"."id" ASC LIMIT 1000 /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153281') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to CreateBulkUpdates (20261120153282)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "spotlight_bulk_updates" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "file" varchar NOT NULL, "exhibit_id" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_bulk_updates_on_exhibit_id" ON "spotlight_bulk_updates" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153282') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to MigrateCaptionValuesForTitleKey (20261120153283)
+Scoped order is ignored, use :cursor with :order to configure custom order.
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[36mSpotlight::Page Load (0.0ms)[0m  [1m[34mSELECT "spotlight_pages".* FROM "spotlight_pages" ORDER BY "spotlight_pages"."id" ASC LIMIT 1000 /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153283') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to AddIndexesForFeaturedImages (20261120153284)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.5ms)[0m  [1m[35mCREATE INDEX "index_spotlight_searches_on_thumbnail_id" ON "spotlight_searches" ("thumbnail_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_searches_on_masthead_id" ON "spotlight_searches" ("masthead_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_exhibits_on_thumbnail_id" ON "spotlight_exhibits" ("thumbnail_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_spotlight_exhibits_on_masthead_id" ON "spotlight_exhibits" ("masthead_id") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_pages_on_thumbnail_id" ON "spotlight_pages" ("thumbnail_id") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153284') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='Internal'*/[0m
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT * FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = 'environment' ORDER BY "ar_internal_metadata"."key" ASC LIMIT 1 /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='Internal'*/[0m
+Migrating to CreateFriendlyIdSlugs (20261120153285)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.6ms)[0m  [1m[35mCREATE TABLE "friendly_id_slugs" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "slug" varchar NOT NULL, "sluggable_id" integer NOT NULL, "sluggable_type" varchar(50), "scope" varchar, "created_at" datetime(6)) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_friendly_id_slugs_on_sluggable_type_and_sluggable_id" ON "friendly_id_slugs" ("sluggable_type", "sluggable_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_friendly_id_slugs_on_slug_and_sluggable_type" ON "friendly_id_slugs" ("slug", "sluggable_type") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_friendly_id_slugs_on_slug_and_sluggable_type_and_scope" ON "friendly_id_slugs" ("slug", "sluggable_type", "scope") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153285') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.4ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to CreateVersions (20261120153328)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.5ms)[0m  [1m[35mCREATE TABLE "versions" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "whodunnit" varchar, "created_at" datetime(6), "item_id" bigint NOT NULL, "item_type" varchar NOT NULL, "event" varchar NOT NULL, "object" text(1073741823)) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_versions_on_item_type_and_item_id" ON "versions" ("item_type", "item_id") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153328') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+Migrating to CreateDeviseInvitations (20261120153525)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Internal'*/[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "devise_invitations" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "invitation_token" varchar, "invitation_created_at" datetime(6), "invitation_sent_at" datetime(6), "invitation_accepted_at" datetime(6), "superseded_at" datetime(6), "superseded_reason" varchar, "revoked_at" datetime(6), "resource_created_at" datetime(6), "invite_key" json DEFAULT '{}' NOT NULL, "invite_key_digest" varchar NOT NULL, "invitable_type" varchar, "invitable_id" integer, "invited_by_type" varchar, "invited_by_id" integer, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_devise_invitations_on_invitable" ON "devise_invitations" ("invitable_type", "invitable_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_devise_invitations_on_invited_by" ON "devise_invitations" ("invited_by_type", "invited_by_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_devise_invitations_on_invitation_token" ON "devise_invitations" ("invitation_token") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_devise_invitations_on_type_and_invite_key" ON "devise_invitations" ("invitable_type", "invite_key_digest") /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20261120153525') RETURNING "version" /*application='Internal'*/[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='Internal'*/[0m
+DEPRECATION WARNING: ActiveSupport::Configurable is deprecated without replacement, and will be removed in Rails 8.2.
+
+The previous behavior can be emulated with `attr_accessor`s, `class_attribute`s, or combinations of `class_attribute` and `InheritableOptions` depending on requirements.
+ (called from <top (required)> at /Users/headleya/pul/spotlight/.internal_test_app/config/environment.rb:5)
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='Internal'*/[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.0ms)[0m  [1m[34mSELECT * FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = 'environment' ORDER BY "ar_internal_metadata"."key" ASC LIMIT 1 /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='Internal'*/[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.0ms)[0m  [1m[34mSELECT * FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = 'environment' ORDER BY "ar_internal_metadata"."key" ASC LIMIT 1 /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='Internal'*/[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.0ms)[0m  [1m[34mSELECT * FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = 'environment' ORDER BY "ar_internal_metadata"."key" ASC LIMIT 1 /*application='Internal'*/[0m
+  [1m[35m (0.3ms)[0m  [1m[35mDROP TABLE IF EXISTS "bookmarks" /*application='Internal'*/[0m
+  [1m[35m (0.2ms)[0m  [1m[35mCREATE TABLE "bookmarks" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "user_id" integer NOT NULL, "user_type" varchar, "document_id" varchar, "document_type" varchar, "title" blob, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_bookmarks_on_document_id" ON "bookmarks" ("document_id") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_bookmarks_on_document_type_and_document_id" ON "bookmarks" ("document_type", "document_id") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_bookmarks_on_user_id" ON "bookmarks" ("user_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "devise_invitations" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "devise_invitations" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "invitation_token" varchar, "invitation_created_at" datetime(6), "invitation_sent_at" datetime(6), "invitation_accepted_at" datetime(6), "superseded_at" datetime(6), "superseded_reason" varchar, "revoked_at" datetime(6), "resource_created_at" datetime(6), "invite_key" json DEFAULT '{}' NOT NULL, "invite_key_digest" varchar NOT NULL, "invitable_type" varchar, "invitable_id" integer, "invited_by_type" varchar, "invited_by_id" integer, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_devise_invitations_on_invitable" ON "devise_invitations" ("invitable_type", "invitable_id") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_devise_invitations_on_type_and_invite_key" ON "devise_invitations" ("invitable_type", "invite_key_digest") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_devise_invitations_on_invitation_token" ON "devise_invitations" ("invitation_token") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_devise_invitations_on_invited_by" ON "devise_invitations" ("invited_by_type", "invited_by_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "friendly_id_slugs" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "friendly_id_slugs" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "slug" varchar NOT NULL, "sluggable_id" integer NOT NULL, "sluggable_type" varchar(50), "scope" varchar, "created_at" datetime(6)) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_friendly_id_slugs_on_slug_and_sluggable_type_and_scope" ON "friendly_id_slugs" ("slug", "sluggable_type", "scope") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_friendly_id_slugs_on_slug_and_sluggable_type" ON "friendly_id_slugs" ("slug", "sluggable_type") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE INDEX "index_friendly_id_slugs_on_sluggable_type_and_sluggable_id" ON "friendly_id_slugs" ("sluggable_type", "sluggable_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "searches" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "searches" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "query_params" blob, "user_id" integer, "user_type" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_searches_on_user_id" ON "searches" ("user_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "spotlight_attachments" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "spotlight_attachments" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "file" varchar, "uid" varchar, "exhibit_id" integer, "created_at" datetime, "updated_at" datetime) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "spotlight_blacklight_configurations" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "spotlight_blacklight_configurations" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "exhibit_id" integer, "facet_fields" text, "index_fields" text, "search_fields" text, "sort_fields" text, "default_solr_params" text, "show" text, "index" text, "default_per_page" integer, "per_page" text, "document_index_view_types" text, "thumbnail_size" varchar, "created_at" datetime, "updated_at" datetime) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "spotlight_bulk_updates" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "spotlight_bulk_updates" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "file" varchar NOT NULL, "exhibit_id" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_bulk_updates_on_exhibit_id" ON "spotlight_bulk_updates" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "spotlight_contact_emails" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "spotlight_contact_emails" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "exhibit_id" integer, "email" varchar DEFAULT '' NOT NULL, "confirmation_token" varchar, "confirmed_at" datetime, "confirmation_sent_at" datetime, "unconfirmed_email" varchar, "created_at" datetime, "updated_at" datetime) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_spotlight_contact_emails_on_confirmation_token" ON "spotlight_contact_emails" ("confirmation_token") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_spotlight_contact_emails_on_email_and_exhibit_id" ON "spotlight_contact_emails" ("email", "exhibit_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "spotlight_contacts" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "spotlight_contacts" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "slug" varchar, "name" varchar, "email" varchar, "title" varchar, "location" varchar, "telephone" varchar, "show_in_sidebar" boolean, "weight" integer DEFAULT 50, "exhibit_id" integer, "created_at" datetime, "updated_at" datetime, "contact_info" text, "avatar" varchar, "avatar_crop_x" integer, "avatar_crop_y" integer, "avatar_crop_w" integer, "avatar_crop_h" integer, "avatar_id" integer) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_contacts_on_avatar_id" ON "spotlight_contacts" ("avatar_id") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_contacts_on_exhibit_id" ON "spotlight_contacts" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "spotlight_custom_fields" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "spotlight_custom_fields" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "exhibit_id" integer, "slug" varchar, "field" varchar, "configuration" text, "created_at" datetime, "updated_at" datetime, "field_type" varchar, "readonly_field" boolean DEFAULT FALSE, "is_multiple" boolean DEFAULT FALSE) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "spotlight_custom_search_fields" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "spotlight_custom_search_fields" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "slug" varchar, "field" varchar, "configuration" text, "exhibit_id" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_custom_search_fields_on_exhibit_id" ON "spotlight_custom_search_fields" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "spotlight_events" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "spotlight_events" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "exhibit_id" integer, "resource_type" varchar NOT NULL, "resource_id" integer NOT NULL, "type" varchar, "collation_key" varchar, "data" text, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_events_on_exhibit_id" ON "spotlight_events" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_events_on_resource_type_and_resource_id" ON "spotlight_events" ("resource_type", "resource_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "spotlight_exhibits" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "spotlight_exhibits" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar NOT NULL, "subtitle" varchar, "slug" varchar, "description" text, "created_at" datetime, "updated_at" datetime, "layout" varchar, "published" boolean DEFAULT FALSE, "published_at" datetime, "featured_image" varchar, "masthead_id" integer, "thumbnail_id" integer, "weight" integer DEFAULT 50, "site_id" integer, "theme" varchar) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_exhibits_on_masthead_id" ON "spotlight_exhibits" ("masthead_id") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_exhibits_on_site_id" ON "spotlight_exhibits" ("site_id") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_spotlight_exhibits_on_slug" ON "spotlight_exhibits" ("slug") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_exhibits_on_thumbnail_id" ON "spotlight_exhibits" ("thumbnail_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "spotlight_featured_images" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "spotlight_featured_images" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "type" varchar, "display" boolean, "image" varchar, "source" varchar, "document_global_id" varchar, "image_crop_x" integer, "image_crop_y" integer, "image_crop_w" integer, "image_crop_h" integer, "created_at" datetime, "updated_at" datetime, "iiif_region" varchar, "iiif_manifest_url" varchar, "iiif_canvas_id" varchar, "iiif_image_id" varchar, "iiif_tilesource" varchar) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "spotlight_filters" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "spotlight_filters" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "field" varchar, "value" varchar, "exhibit_id" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_filters_on_exhibit_id" ON "spotlight_filters" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "spotlight_groups" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "spotlight_groups" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "slug" varchar, "title" text, "exhibit_id" integer, "weight" integer DEFAULT 50, "published" boolean, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_groups_on_exhibit_id" ON "spotlight_groups" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "spotlight_groups_members" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "spotlight_groups_members" ("group_id" integer, "member_type" varchar, "member_id" integer) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_groups_members_on_group_id" ON "spotlight_groups_members" ("group_id") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_groups_members_on_member_type_and_member_id" ON "spotlight_groups_members" ("member_type", "member_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "spotlight_job_trackers" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "spotlight_job_trackers" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "on_type" varchar NOT NULL, "on_id" integer NOT NULL, "resource_type" varchar NOT NULL, "resource_id" integer NOT NULL, "job_id" varchar, "job_class" varchar, "parent_job_id" varchar, "parent_job_class" varchar, "status" varchar, "user_id" integer, "log" text, "data" text, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_job_trackers_on_job_id" ON "spotlight_job_trackers" ("job_id") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_job_trackers_on_on_type_and_on_id" ON "spotlight_job_trackers" ("on_type", "on_id") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_job_trackers_on_resource_type_and_resource_id" ON "spotlight_job_trackers" ("resource_type", "resource_id") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_job_trackers_on_user_id" ON "spotlight_job_trackers" ("user_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "spotlight_languages" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "spotlight_languages" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "locale" varchar NOT NULL, "public" boolean, "text" varchar, "exhibit_id" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_languages_on_exhibit_id" ON "spotlight_languages" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "spotlight_locks" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "spotlight_locks" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "on_type" varchar, "on_id" integer, "by_type" varchar, "by_id" integer, "created_at" datetime, "updated_at" datetime) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_spotlight_locks_on_on_id_and_on_type" ON "spotlight_locks" ("on_id", "on_type") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "spotlight_main_navigations" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "spotlight_main_navigations" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "label" varchar, "weight" integer DEFAULT 20, "nav_type" varchar, "exhibit_id" integer, "created_at" datetime, "updated_at" datetime, "display" boolean DEFAULT TRUE) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_main_navigations_on_exhibit_id" ON "spotlight_main_navigations" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "spotlight_pages" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "spotlight_pages" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "type" varchar, "slug" varchar, "scope" varchar, "content" text(16777215), "weight" integer DEFAULT 1000, "published" boolean, "exhibit_id" integer, "created_by_id" integer, "last_edited_by_id" integer, "created_at" datetime, "updated_at" datetime, "parent_page_id" integer, "display_sidebar" boolean, "display_title" boolean, "thumbnail_id" integer, "locale" varchar DEFAULT 'en', "default_locale_page_id" integer, "content_type" varchar) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_pages_on_default_locale_page_id" ON "spotlight_pages" ("default_locale_page_id") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_pages_on_exhibit_id" ON "spotlight_pages" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_pages_on_locale" ON "spotlight_pages" ("locale") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_pages_on_parent_page_id" ON "spotlight_pages" ("parent_page_id") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_spotlight_pages_on_slug_and_scope" ON "spotlight_pages" ("slug", "scope") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_pages_on_thumbnail_id" ON "spotlight_pages" ("thumbnail_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "spotlight_reindexing_log_entries" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "spotlight_reindexing_log_entries" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "items_reindexed_count" integer, "items_reindexed_estimate" integer, "start_time" datetime, "end_time" datetime, "job_status" integer, "exhibit_id" integer, "user_id" integer, "created_at" datetime, "updated_at" datetime) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "spotlight_resources" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "spotlight_resources" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "exhibit_id" integer, "type" varchar, "url" varchar, "data" text, "indexed_at" datetime, "created_at" datetime, "updated_at" datetime, "metadata" blob, "index_status" integer, "upload_id" integer) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_resources_on_index_status" ON "spotlight_resources" ("index_status") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_resources_on_upload_id" ON "spotlight_resources" ("upload_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "spotlight_roles" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "spotlight_roles" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "user_id" integer, "role" varchar, "resource_id" integer, "resource_type" varchar) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_spotlight_roles_on_resource_and_user_id" ON "spotlight_roles" ("resource_type", "resource_id", "user_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "spotlight_searches" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "spotlight_searches" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "slug" varchar, "scope" varchar, "short_description" text, "long_description" text, "query_params" text, "weight" integer, "published" boolean, "exhibit_id" integer, "created_at" datetime, "updated_at" datetime, "featured_item_id" varchar, "masthead_id" integer, "thumbnail_id" integer, "default_index_view_type" varchar, "search_box" boolean DEFAULT FALSE, "subtitle" varchar) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_searches_on_exhibit_id" ON "spotlight_searches" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_searches_on_masthead_id" ON "spotlight_searches" ("masthead_id") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_spotlight_searches_on_slug_and_scope" ON "spotlight_searches" ("slug", "scope") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_searches_on_thumbnail_id" ON "spotlight_searches" ("thumbnail_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "spotlight_sites" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "spotlight_sites" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "subtitle" varchar, "masthead_id" integer) /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "spotlight_solr_document_sidecars" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "spotlight_solr_document_sidecars" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "exhibit_id" integer, "public" boolean DEFAULT TRUE, "data" text, "created_at" datetime, "updated_at" datetime, "document_id" varchar, "document_type" varchar, "resource_id" integer, "resource_type" varchar, "index_status" blob(10485760)) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "spotlight_solr_document_sidecars_solr_document" ON "spotlight_solr_document_sidecars" ("document_type", "document_id") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE UNIQUE INDEX "by_exhibit_and_doc" ON "spotlight_solr_document_sidecars" ("exhibit_id", "document_type", "document_id") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "spotlight_solr_document_sidecars_exhibit_document" ON "spotlight_solr_document_sidecars" ("exhibit_id", "document_type", "document_id") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_spotlight_solr_document_sidecars_on_exhibit_id" ON "spotlight_solr_document_sidecars" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "spotlight_solr_document_sidecars_resource" ON "spotlight_solr_document_sidecars" ("resource_type", "resource_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "taggings" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "taggings" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "tag_id" integer, "taggable_id" integer, "taggable_type" varchar, "tagger_type" varchar, "tagger_id" integer, "context" varchar(128), "created_at" datetime) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_taggings_on_context" ON "taggings" ("context") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE UNIQUE INDEX "taggings_idx" ON "taggings" ("tag_id", "taggable_id", "taggable_type", "context", "tagger_id", "tagger_type") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_taggings_on_tag_id" ON "taggings" ("tag_id") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_taggings_on_taggable_id_and_taggable_type_and_context" ON "taggings" ("taggable_id", "taggable_type", "context") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "taggings_idy" ON "taggings" ("taggable_id", "taggable_type", "tagger_id", "context") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_taggings_on_taggable_id" ON "taggings" ("taggable_id") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_taggings_on_taggable_type" ON "taggings" ("taggable_type") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_taggings_on_tagger_id_and_tagger_type" ON "taggings" ("tagger_id", "tagger_type") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_taggings_on_tagger_id" ON "taggings" ("tagger_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "tags" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "tags" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "taggings_count" integer DEFAULT 0) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_tags_on_name" ON "tags" ("name") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "translations" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "translations" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "locale" varchar, "key" varchar, "value" text, "interpolations" text, "is_proc" boolean DEFAULT FALSE, "exhibit_id" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_translations_on_exhibit_id_and_key_and_locale" ON "translations" ("exhibit_id", "key", "locale") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_translations_on_exhibit_id" ON "translations" ("exhibit_id") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "users" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "users" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "email" varchar DEFAULT '' NOT NULL, "encrypted_password" varchar DEFAULT '' NOT NULL, "reset_password_token" varchar, "reset_password_sent_at" datetime(6), "remember_created_at" datetime(6), "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL, "guest" boolean DEFAULT FALSE) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_users_on_email" ON "users" ("email") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_users_on_reset_password_token" ON "users" ("reset_password_token") /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[35mDROP TABLE IF EXISTS "versions" /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "versions" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "whodunnit" varchar, "created_at" datetime(6), "item_id" bigint NOT NULL, "item_type" varchar NOT NULL, "event" varchar NOT NULL, "object" text(1073741823)) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_versions_on_item_type_and_item_id" ON "versions" ("item_type", "item_id") /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY) /*application='Internal'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='Internal'*/[0m
+  [1m[35m (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" (version) VALUES (20261120153525) /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[32mINSERT INTO "schema_migrations" (version) VALUES
+(20261120153328),
+(20261120153285),
+(20261120153284),
+(20261120153283),
+(20261120153282),
+(20261120153281),
+(20261120153280),
+(20261120153279),
+(20261120153278),
+(20261120153277),
+(20261120153276),
+(20261120153275),
+(20261120153274),
+(20261120153273),
+(20261120153272),
+(20261120153271),
+(20261120153270),
+(20261120153269),
+(20261120153268),
+(20261120153267),
+(20261120153266),
+(20261120153265),
+(20261120153264),
+(20261120153263),
+(20261120153262),
+(20261120153261),
+(20261120153260),
+(20261120153259),
+(20261120153258),
+(20261120153257),
+(20261120153256),
+(20261120153255),
+(20261120153254),
+(20261120153253),
+(20261120153252),
+(20261120153251),
+(20261120153250),
+(20261120153249),
+(20261120153248),
+(20261120153247),
+(20261120153246),
+(20261120153245),
+(20261120153244),
+(20261120153243),
+(20261120153242),
+(20261120153241),
+(20261120153240),
+(20261120153239),
+(20261120153238),
+(20261120153237),
+(20261120153236),
+(20261120153235),
+(20261120153234),
+(20261120153233),
+(20261120153232),
+(20261120153231),
+(20261120153230),
+(20261120153229),
+(20261120153228),
+(20261120153227),
+(20261120153226),
+(20261120153225),
+(20261120153224),
+(20261120153223),
+(20261120153222),
+(20261120153221),
+(20261120153220),
+(20261120153219),
+(20261120153218),
+(20261120153217),
+(20261120153216),
+(20261120153215),
+(20261120153214),
+(20261120153213),
+(20261120153212),
+(20261120153211),
+(20261120153210),
+(20261120153205),
+(20261120153203),
+(20261120153124),
+(20261120153123),
+(20261120153122); /*application='Internal'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL) /*application='Internal'*/[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.0ms)[0m  [1m[34mSELECT * FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = 'environment' ORDER BY "ar_internal_metadata"."key" ASC LIMIT 1 /*application='Internal'*/[0m
+  [1m[36mActiveRecord::InternalMetadata Create (0.1ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES ('environment', 'development', '2026-11-20 15:35:32.929789', '2026-11-20 15:35:32.929790') RETURNING "key" /*application='Internal'*/[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.0ms)[0m  [1m[34mSELECT * FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = 'environment' ORDER BY "ar_internal_metadata"."key" ASC LIMIT 1 /*application='Internal'*/[0m
+  [1m[36mActiveRecord::InternalMetadata Update (0.0ms)[0m  [1m[33mUPDATE "ar_internal_metadata" SET "value" = 'test', "updated_at" = '2026-11-20 15:35:32.930536' WHERE "ar_internal_metadata"."key" = 'environment' /*application='Internal'*/[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.0ms)[0m  [1m[34mSELECT * FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = 'schema_sha1' ORDER BY "ar_internal_metadata"."key" ASC LIMIT 1 /*application='Internal'*/[0m
+  [1m[36mActiveRecord::InternalMetadata Create (0.0ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES ('schema_sha1', 'e57a70706d2658a2a19f579383a1fdd23f9b0463', '2026-11-20 15:35:32.931111', '2026-11-20 15:35:32.931111') RETURNING "key" /*application='Internal'*/[0m

@@ -5,7 +5,6 @@ config/initializers/secret_token.rb
 /coverage/
 /db/*.sqlite3
 Gemfile.lock
-.internal_test_app
 /log/*
 **.orig
 pickle-email-*.html
