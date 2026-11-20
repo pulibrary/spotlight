@@ -3,10 +3,9 @@
 ENV['RAILS_ENV'] ||= 'test'
 require 'factory_bot'
 require 'devise'
-require 'engine_cart'
-EngineCart.load_application!
 
-ActiveJob::Base.queue_adapter = :test
+# adapted from engine_cart
+require File.expand_path('config/environment', '.internal_test_app')
 
 require 'rails-controller-testing'
 require 'rspec/collection_matchers'
@@ -19,6 +18,22 @@ require 'view_component/system_test_helpers'
 
 require 'selenium-webdriver'
 require 'webmock/rspec'
+
+# workaround for https://github.com/teamcapybara/capybara/issues/2865
+module ClearStorageWithoutWildcardOrigin
+  private
+
+  def execute_cdp(cmd, params = {})
+    return super unless cmd == 'Storage.clearDataForOrigin' && params[:origin] == '*'
+
+    types = params[:storageTypes].to_s.split(',')
+    super('Network.clearBrowserCookies') if types.delete('cookies')
+
+    origin = Capybara.current_session.server&.base_url
+    super(cmd, params.merge(origin: origin, storageTypes: types.join(','))) if origin && types.any?
+  end
+end
+Capybara::Selenium::Driver::ChromeDriver.prepend(ClearStorageWithoutWildcardOrigin)
 
 Capybara.register_driver :selenium_chrome_headless do |app|
   browser_options = Selenium::WebDriver::Chrome::Options.new
@@ -140,7 +155,7 @@ def add_new_via_button(title = 'New Page')
   end
   add_link.hover
   within(add_link) do
-    input = find("input[type='text']", visible: true)
+    input = find_field(type: 'text', visible: true)
     input.set(title)
     find("input[data-behavior='save']").click
   end

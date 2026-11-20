@@ -27,8 +27,6 @@ RSpec::Core::RakeTask.new(:spec)
 require 'rubocop/rake_task'
 RuboCop::RakeTask.new(:rubocop)
 
-require 'engine_cart/rake_task'
-
 require 'spotlight/version'
 
 def system_with_error_handling(*args)
@@ -75,7 +73,7 @@ end
 
 namespace :spotlight do
   desc 'Load fixtures'
-  task fixtures: ['engine_cart:generate'] do
+  task :fixtures do
     within_test_app do
       system 'rake spotlight_test:solr:seed RAILS_ENV=test'
       abort 'Error running fixtures' unless $?.success?
@@ -84,8 +82,6 @@ namespace :spotlight do
 
   desc 'Start the test application for Spotlight'
   task :server do
-    Rake::Task['engine_cart:generate'].invoke
-
     SolrWrapper.wrap(port: '8983') do |solr|
       solr.with_collection(name: 'blacklight-core', dir: 'lib/generators/spotlight/templates/solr/conf') do
         within_test_app do
@@ -114,7 +110,7 @@ namespace :spotlight do
             Bundler.with_unbundled_env do
               IO.popen({ 'SPOTLIGHT_GEM' => File.dirname(__FILE__) },
                        ['rails', version, 'new', 'internal', '--skip-spring', '-m', template_path] +
-                          [err: %i[child out]]) do |io|
+                          [{ err: %i[child out] }]) do |io|
                 IO.copy_stream(io, $stderr)
 
                 _, exit_status = Process.wait2(io.pid)
@@ -136,6 +132,12 @@ namespace :spotlight do
           end
         end
       end
+    end
+  end
+
+  def within_test_app(&block)
+    Dir.chdir('.internal_test_app') do
+      Bundler.with_unbundled_env(&block)
     end
   end
 end
