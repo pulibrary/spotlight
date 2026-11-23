@@ -14,3 +14,9 @@ services:
       - solr-precreate
       - blacklight-core
       - /opt/solr/conf
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8983/solr/blacklight-core/admin/ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
