@@ -44,7 +44,7 @@ def with_solr(&block) # rubocop:disable Metrics/MethodLength
     # We're not running `docker compose up' but still want to use a docker instance of solr.
     begin
       puts 'Starting Solr'
-      system_with_error_handling 'docker compose up -d solr'
+      system_with_error_handling 'docker compose up -d solr --wait'
       yield
     ensure
       puts 'Stopping Solr'
