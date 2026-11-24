@@ -8,14 +8,11 @@
 //= link blacklight-gallery/masonry.js
 //= link blacklight-gallery/slideshow.js
 
-//= link_tree ../../../node_modules/openseadragon/build/openseadragon/images
-
 //= link blacklight-oembed/oembed.js
 //= link openseadragon.js
 //= link openseadragon/jquery.js
 //= link openseadragon/rails.js
 //= link openseadragon/openseadragon.js
-//= link openseadragon/zoomin_rest.png
 
 //= link blacklight/autocomplete.js
 //= link blacklight/bookmark_toggle.js
