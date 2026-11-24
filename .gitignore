@@ -29,5 +29,5 @@ node_modules
 .internal_test_app/public/uploads/*
 .internal_test_app/tmp/*
 test.sqlite3*
-development.sqlite3
+development.sqlite3*
 *.js.map
