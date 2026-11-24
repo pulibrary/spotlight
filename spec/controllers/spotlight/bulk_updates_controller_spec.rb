@@ -46,8 +46,8 @@ describe Spotlight::BulkUpdatesController, type: :controller do
           updatable_fields: { tags: 0, visibility: 1 }
         }
 
-        content = CSV.parse(response.body)
-        expect(content.length).to eq 56
+        content = CSV.parse(response.body.reduce(:+))
+        expect(content.length).to eq 57
         expect(content[0]).to eq ['Item ID', 'Item Title', 'Visibility']
       end
     end
