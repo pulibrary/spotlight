@@ -21,10 +21,10 @@ describe 'Browse Category Administration', type: :feature do
       expect(page).to have_css('#save-modal')
       fill_in 'search_title', with: 'Some search'
       expect do
-        find_field(name: 'commit').click
-        exhibit.searches.reload
+        click_button(name: 'commit')
+        expect(page).to have_text 'was created'
       end.to change { exhibit.searches.count }.by 1
-      expect(exhibit.searches.last.query_params).to eq 'q' => 'xyz'
+      expect(exhibit.searches.find_by(title: 'Some search').query_params).to eq 'q' => 'xyz'
     end
 
     it 'updates an existing browse category with the current search parameters', js: true do
@@ -32,7 +32,8 @@ describe 'Browse Category Administration', type: :feature do
       click_button 'Save this search'
       expect(page).to have_css('#save-modal')
       select search.title, from: 'id'
-      find_field(name: 'commit').click
+      click_button(name: 'commit')
+      expect(page).to have_text 'was created'
       expect(search.reload.query_params).to eq 'q' => 'xyz'
     end
   end

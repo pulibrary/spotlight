@@ -17,7 +17,7 @@ describe 'Add a contact to an exhibit', type: :feature do
       fill_in 'Location', with: 'Rome'
       fill_in 'Telephone', with: '(555) 555-5555 ext. 12345 (mobile)'
 
-      find_field(name: 'commit').click
+      click_button(name: 'commit')
     end
     expect(page).to have_text 'The contact was created.'
 
