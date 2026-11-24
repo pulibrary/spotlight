@@ -167,7 +167,7 @@ Devise.setup do |config|
   # Create a placeholder resource as soon as an invitation is sent. When false,
   # the resource is created only after the invitation is accepted.
   # Default: false
-  # config.create_resource_on_invitation = true
+  config.create_resource_on_invitation = true
 
   # Store invite keys until delivery so skipped invitations without placeholder
   # resources can be delivered later. Keys are cleared after successful delivery.
