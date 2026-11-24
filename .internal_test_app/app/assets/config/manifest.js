@@ -15,7 +15,8 @@
 //= link openseadragon/jquery.js
 //= link openseadragon/rails.js
 //= link openseadragon/openseadragon.js
-//
+//= link openseadragon/zoomin_rest.png
+
 //= link blacklight/autocomplete.js
 //= link blacklight/bookmark_toggle.js
 //= link blacklight/button_focus.js
