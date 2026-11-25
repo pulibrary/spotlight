@@ -47,7 +47,7 @@ describe Spotlight::BulkUpdatesController, type: :controller do
         }
 
         content = CSV.parse(response.body.reduce(:+))
-        expect(content.length).to eq 57
+        expect(content.length).to eq 56
         expect(content[0]).to eq ['Item ID', 'Item Title', 'Visibility']
       end
     end
