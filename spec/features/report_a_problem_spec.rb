@@ -42,6 +42,7 @@ describe 'Report a Problem', type: :feature do
 
       expect do
         click_on 'Send'
+        expect(page).to have_text('Thanks. Your feedback has been sent.')
       end.to change { ActionMailer::Base.deliveries.count }.by(1)
     end
 
