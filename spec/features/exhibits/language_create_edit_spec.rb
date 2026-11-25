@@ -13,7 +13,7 @@ describe 'Language', type: :feature do
     it 'successfully adds languages' do
       within '#language' do
         select 'Albanian'
-        find('input[name="commit"]').click
+        click_button(name: 'commit')
       end
       expect(page).to have_css '.flash_messages', text: 'The language was created.'
       within '#language' do
@@ -27,7 +27,7 @@ describe 'Language', type: :feature do
     it 'successfully updates the language' do
       within '#language' do
         select 'Albanian'
-        find('input[name="commit"]').click
+        click_button(name: 'commit')
       end
       expect(page).to have_css '.flash_messages', text: 'The language was created.'
       within '#language' do
@@ -43,7 +43,7 @@ describe 'Language', type: :feature do
     it 'successfully updates the language' do
       within '#language' do
         select 'Albanian'
-        find('input[name="commit"]').click
+        click_button(name: 'commit')
       end
       expect(page).to have_css '.flash_messages', text: 'The language was created.'
       within '#language' do
@@ -51,7 +51,7 @@ describe 'Language', type: :feature do
       end
       expect(page).to have_css '.flash_messages', text: 'The language was deleted.'
       within '#language' do
-        expect(page).to have_content 'No languages have been added for translation. To add a language, make a selection above.'
+        expect(page).to have_text 'No languages have been added for translation. To add a language, make a selection above.'
         expect(page).to have_no_css 'table'
       end
     end

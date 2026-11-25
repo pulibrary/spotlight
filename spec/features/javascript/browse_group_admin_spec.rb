@@ -16,9 +16,8 @@ describe 'Browse Group Adminstration', js: true do
   it 'is able to create new groups' do
     visit spotlight.exhibit_searches_path(exhibit, anchor: 'browse-groups')
 
-    add_new_via_button('My New Group')
+    add_new_via_button('My New Group', alert: 'The browse group was created.')
 
-    expect(page).to have_content 'The browse group was created.'
     expect(page).to have_css('li.dd-item')
     expect(page).to have_css('h4', text: 'My New Group')
   end
@@ -28,7 +27,7 @@ describe 'Browse Group Adminstration', js: true do
 
     within("[data-id='#{group1.id}']") do
       within('h4') do
-        expect(page).to have_content('Good group 1')
+        expect(page).to have_text('Good group 1')
         expect(page).to have_css('.title-field', visible: false)
         click_link('Good group 1')
         expect(page).to have_css('.title-field', visible: true)
@@ -36,10 +35,10 @@ describe 'Browse Group Adminstration', js: true do
       end
     end
     click_button('Save changes')
+
+    expect(page).to have_css('.alert-info', text: 'Browse groups were successfully updated.')
     within("[data-id='#{group1.id}']") do
-      within('h4') do
-        expect(page).to have_content('New good group 1')
-      end
+      expect(page).to have_css('h4', text: 'New good group 1')
     end
   end
 end

@@ -5,7 +5,6 @@ config/initializers/secret_token.rb
 /coverage/
 /db/*.sqlite3
 Gemfile.lock
-.internal_test_app
 /log/*
 **.orig
 pickle-email-*.html
@@ -26,3 +25,9 @@ spec/internal
 /tmp/*
 /vendor/bundle
 node_modules
+.internal_test_app/log/*
+.internal_test_app/public/uploads/*
+.internal_test_app/tmp/*
+test.sqlite3*
+development.sqlite3*
+*.js.map

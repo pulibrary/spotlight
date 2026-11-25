@@ -12,7 +12,7 @@ describe 'Edit in place', js: true, type: :feature do
 
       click_link 'Feature pages'
 
-      add_new_via_button('My New Feature Page')
+      add_new_via_button('My New Feature Page', alert: 'The feature page was created.')
 
       expect(page).to have_css('h3', text: 'My New Feature Page')
 
@@ -26,7 +26,7 @@ describe 'Edit in place', js: true, type: :feature do
       end
       click_button 'Save changes'
 
-      expect(page).to have_content('Feature pages were successfully updated.')
+      expect(page).to have_text('Feature pages were successfully updated.')
       expect(page).to have_css('h3', text: 'My Newer Feature Page')
       expect(page).to have_no_css('h3', text: 'My New Feature Page')
     end
@@ -38,7 +38,7 @@ describe 'Edit in place', js: true, type: :feature do
 
       click_link 'Feature pages'
 
-      add_new_via_button('My New Feature Page')
+      add_new_via_button('My New Feature Page', alert: 'The feature page was created.')
 
       expect(page).to have_css('h3', text: 'My New Feature Page')
 
@@ -81,7 +81,7 @@ describe 'Edit in place', js: true, type: :feature do
 
       click_button 'Save changes'
 
-      expect(page).to have_content('The exhibit was successfully updated.')
+      expect(page).to have_text('The exhibit was successfully updated.')
 
       click_link 'Main menu'
 

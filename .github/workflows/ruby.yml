@@ -8,37 +8,19 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
-    name: test (ruby ${{ matrix.ruby }} / rails ${{ matrix.rails_version }} / blacklight ${{ matrix.blacklight_version }} ${{ matrix.additional_name }})
+    name: test
     strategy:
       matrix:
-        rails_version: ["~> 7.2"]
-        ruby: ["3.2", "3.3"]
+        rails_version: ["~> 8.1"]
+        ruby: ["4.0"]
         bootstrap_version: ["~> 4.0"]
-        blacklight_version: ["~> 7.34"]
+        blacklight_version: ["~> 7.43.2"]
+        bundler: ["4"]
         additional_engine_cart_rails_options: [""]
-        additional_name: [""]
-        include:
-          - rails_version: "~> 7.2"
-            ruby: "3.3"
-            blacklight_version: "~> 7.34"
-            bootstrap_version: ~> 5.0
-            additional_name: Bootstrap 5
-          - rails_version: "7.1.4"
-            ruby: "3.2"
-            blacklight_version: "~> 7.34"
-            bootstrap_version: ~> 4.0
-            additional_name: Rails 7.1
-          - rails_version: "~> 7.2"
-            ruby: "3.3"
-            blacklight_version: "~> 8.0"
-            bootstrap_version: ~> 4.0
-            additional_name: Blacklight 8
-            additional_engine_cart_rails_options: "-j rollup -a sprockets"
     env:
       RAILS_VERSION: ${{ matrix.rails_version }}
       BLACKLIGHT_VERSION: ${{ matrix.blacklight_version }}
       BOOTSTRAP_VERSION: ${{ matrix.bootstrap_version }}
-      ENGINE_CART_RAILS_OPTIONS: "--skip-git --skip-listen --skip-spring --skip-keeps --skip-coffee --skip-test ${{ matrix.additional_engine_cart_rails_options }}"
     steps:
       - name: Install ImageMagick
         run: sudo apt install imagemagick
@@ -47,7 +29,7 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           bundler-cache: false
-          bundler: "latest"
+          bundler: ${{ matrix.bundler }}
           ruby-version: ${{ matrix.ruby }}
       - name: Install dependencies
         run: bundle install

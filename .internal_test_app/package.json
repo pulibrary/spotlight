@@ -1,0 +1,9 @@
+{
+  "name": "internal_test_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "openseadragon-rails": "^1.0.17"
+  }
+}
