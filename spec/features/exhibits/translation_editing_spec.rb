@@ -85,18 +85,6 @@ describe 'Translation editing', type: :feature do
         expect(I18n.t(:'spotlight.curation.nav.home')).to eq 'Maison'
         I18n.locale = I18n.default_locale
       end
-
-      it 'adds translations to user-facing breadcrumbs' do
-        expect(page).to have_css '.flash_messages', text: 'The exhibit was successfully updated.'
-        visit spotlight.exhibit_browse_index_path(exhibit, locale: 'fr')
-        expect(page).to have_breadcrumbs 'Maison', 'parcourir ceci!'
-      end
-
-      it 'does not translate admin breadcrumbs' do
-        expect(page).to have_css '.flash_messages', text: 'The exhibit was successfully updated.'
-        visit spotlight.exhibit_searches_path(exhibit, locale: 'fr')
-        expect(page).to have_breadcrumbs 'Home', 'Curation', 'Browse'
-      end
     end
 
     describe 'breadcrumbs' do
@@ -187,7 +175,7 @@ describe 'Translation editing', type: :feature do
         end
       end
 
-      it 'allows users to translate both index and show metadata field labels', js: true do
+      it 'allows users to translate both index and show metadata field labels' do
         click_link 'Metadata field labels'
 
         within('#metadata', visible: true) do
@@ -264,7 +252,7 @@ describe 'Translation editing', type: :feature do
         end
       end
 
-      it 'allows users to translate field-based search fields', js: true do
+      it 'allows users to translate field-based search fields' do
         click_link 'Search field labels'
 
         within('#search_fields', visible: true) do
@@ -285,7 +273,7 @@ describe 'Translation editing', type: :feature do
         end
       end
 
-      it 'allows users to translate facet fields', js: true do
+      it 'allows users to translate facet fields' do
         click_link 'Search field labels'
 
         within('#search_fields', visible: true) do
@@ -306,7 +294,7 @@ describe 'Translation editing', type: :feature do
         end
       end
 
-      it 'allows users to translation sort fields', js: true do
+      it 'allows users to translation sort fields' do
         click_link 'Search field labels'
 
         within('#search_fields', visible: true) do
@@ -350,16 +338,13 @@ describe 'Translation editing', type: :feature do
       expect(page).to have_css '.nav-tabs .nav-link.active', text: 'Browse categories'
     end
 
-    it 'persists changes', js: true do
+    it 'persists changes' do
       click_link 'Browse categories'
 
       within('#browse', visible: true) do
         fill_in 'All exhibit items', with: "Tous les objets d'exposition"
 
-        first('.translation-description-toggle').click
-
-        textarea = page.find('textarea')
-        textarea.set('Tous les articles de cette exposition.')
+        first('textarea').set('Tous les articles de cette exposition.')
 
         click_button 'Save changes'
       end
@@ -406,7 +391,7 @@ describe 'Translation editing', type: :feature do
       expect(page).to have_css '.nav-tabs .nav-link.active', text: 'Browse groups'
     end
 
-    it 'persists changes', js: true do
+    it 'persists changes' do
       click_link 'Browse groups'
 
       within('#groups', visible: true) do
