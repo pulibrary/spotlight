@@ -35,10 +35,10 @@ describe 'Browse Group Adminstration', js: true do
       end
     end
     click_button('Save changes')
+
+    expect(page).to have_css('.alert-info', text: 'Browse groups were successfully updated.')
     within("[data-id='#{group1.id}']") do
-      within('h4') do
-        expect(page).to have_text('New good group 1')
-      end
+      expect(page).to have_css('h4', text: 'New good group 1')
     end
   end
 end
