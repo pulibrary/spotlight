@@ -11,7 +11,7 @@ module IiifManifestFixtures
   # (spec/fixtures/iiif_manifests/<document_id>.json) at that fixture. The controller
   # instance is created by the app server, so it can only be reached with any_instance.
   def stub_iiif_manifests
-    allow_any_instance_of(Spotlight::CatalogController).to( # rubocop:disable RSpec/AnyInstance
+    allow_any_instance_of(Spotlight::CatalogController).to(
       receive(:autocomplete_json_response_for_document).and_wrap_original do |original, doc|
         response = original.call(doc)
         response[:iiif_manifest] = "#{PATH}/#{doc.id}.json" if response[:iiif_manifest] && File.exist?(File.join(DIR, "#{doc.id}.json"))
